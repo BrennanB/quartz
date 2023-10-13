@@ -14,3 +14,5 @@
 2. Open up GitHub Desktop
 3. ![[Pasted image 20231013141132.png]] 
    Commit to the repo
+4. Push to origin to update the site ![[Pasted image 20231013141302.png]]
+5. The website will automatically refresh after a few minutes with your changes!
