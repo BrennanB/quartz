@@ -6,9 +6,12 @@ I'm not really sure what the best format is for things, but I think it can gener
 
 # General Sections
 
-[[Design]]
-[[Scouting]]
-[[Competition Roles]]
-[[Manufacturing]]
-[[Electrical]]
-[[Previous 4476 Robots]]
+- [[Design]]
+- [[Scouting]]
+- [[Competition Roles]]
+- [[Manufacturing]]
+- [[Electrical]]
+- [[Previous 4476 Robots]]
+
+[[Test Canvas.canvas|Test Canvas]]
+

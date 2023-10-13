@@ -22,10 +22,10 @@ Theoretical breakdown:
 
 - “000-000-00 Charlie” is the full robot
 - “200-000-00 Elevator” is the top assembly
-- Where 100-000-00 is the Dr#rivetrain
+- Where 100-000-00 is the Drivetrain
 - “130-000-00 Cargo Intake” is the sub-assembly
-- Where 110-000-00 is the First Elevator Stage and 120-000-00 is the Second Elevator Stage
-- The cargo intake is not in a further sub assembly, so the third digit is 0
+- Where 110-000-00 is the First Elevator Stage and 120-000-00 is the Second Elevator Stage ^6658f8
+- The cargo intake is not in a further sub assembly, so the third digit is 0!
 - “130-001-00 Cargo Intake Arm” is the part, with no configurations
   
 
