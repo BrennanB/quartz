@@ -6,3 +6,9 @@ Welcome to the design section!
 [[Solidworks]]
 [[CacheCAD]]
 [[Motor Controller]]
+
+# Also want to consider
+
+[[Manufacturing]]
+
+[[Electrical]]
