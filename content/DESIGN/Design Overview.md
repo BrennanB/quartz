@@ -1,7 +1,8 @@
-Welcome to the design section
+Welcome to the design section!
 
-# Things to learn about
+# Things to Learn:
 
 [[Motors]]
 [[Solidworks]]
 [[CacheCAD]]
+[[Motor Controller]]
