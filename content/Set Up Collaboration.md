@@ -6,4 +6,11 @@
 6. If asked "how are you planning to use this fork?" select **For my own purposes**
 7. Open Obsidian and select "Open folder as vault" and select the Quartz folder, then content folder.
 8. Make changes as needed!
-9. Use github to pull changes and push changes.
+9. Use GitHub to pull changes to get the most up to date version
+
+# Pushing an Update
+
+1. Make changes in obsidian
+2. Open up GitHub Desktop
+3. ![[Pasted image 20231013141132.png]] 
+   Commit to the repo
