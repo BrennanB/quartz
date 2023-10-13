@@ -6,6 +6,6 @@ Motors move things fun fact.
 These are brushless motors:
 [[Kraken X60]]
 [[Falcon 500]]
-[[Neo]]
+[[NEO Brushless V1.1]]
 [[Neo Vortex]]
 [[Neo 550]]
