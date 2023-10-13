@@ -5,4 +5,3 @@ Welcome to the design section
 [[Motors]]
 [[Solidworks]]
 [[Cashecad]]
-Robot Wiring 101
