@@ -8,7 +8,8 @@ All but one member of the drive team must be a student. A mentor may be the [[Dr
 - [[Technician]]
 
 # Pit Crew Roles
-
+- [[Pit Mentor]]
+- [[Pit Student]]
 # Scouting & Strategy Team Roles
 
 # Additional Roles
