@@ -2,7 +2,7 @@ The #NEOV1 (technically called the NEO Brushless Motor V1.1, often simply called
 
 As of 2023, NEO V1.1 Motors include additional tapered `#10-32` holes in the shaft and back housing of the motor to allow for increased orientation.
 
-There is an integrated motor sensor (3-phase #HallEffect sensors and a motor temperature sensor) in the NEO, but it must use an internal #SparkMAX motor controller.
+There is an integrated motor sensor (3-phase #HallEffect sensors and a motor temperature sensor) in the NEO, but it must use an either a #SparkMAX [[motor controller]], or, with an adapter board, you can use the #SparkFLEX controller.
 
 Team 4476 began using NEO motors in 2020 #Tanner, and they were also used on the 2022 robot #Leia. 
 
