@@ -2,6 +2,6 @@ Welcome to the design section
 
 # Things to learn about
 
-[[motors]]
+[[Motors]]
 [[Solidworks]]
 [[Cashecad]]

@@ -13,5 +13,8 @@ I'm not really sure what the best format is for things, but I think it can gener
 - [[Electrical]]
 - [[Previous 4476 Robots]]
 
-[[Test Canvas.canvas|Test Canvas]]
+# Obsidian Stuff
+
+- [[Markdown Tips]]
+- [[Set Up Collaboration]]
 
