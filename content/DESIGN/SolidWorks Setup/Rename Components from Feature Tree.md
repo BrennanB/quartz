@@ -2,7 +2,7 @@ By default, the procedure to rename files is very clumsy and can cause errors in
 
 ![[Pasted image 20231014002552.png]]
 
-Go to: {Settings -> System Options -> FeatureManager} then check "Allow components to be renamed...".
+Go to: \[Settings -> System Options -> FeatureManager] then check "Allow components to be renamed...".
 
 ![[Pasted image 20231014002727.png]]
 
