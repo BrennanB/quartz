@@ -6,10 +6,20 @@ All but one member of the drive team must be a student. A mentor may be the [[Dr
 - [[Human Player]]
 - [[Drive Coach]]
 - [[Technician]]
-
 # Pit Crew Roles
 - [[Pit Mentor]]
 - [[Pit Student]]
 # Scouting & Strategy Team Roles
+[[Scouting Lead Mentor]]
+[[Lead Student Scout]]
+[[Strategy Student]]
+[[Scout]]
+[[Online Scout]]
 
 # Additional Roles
+[[Topping Lead Mentor]]
+[[Topping Lead Student]]
+[[Media Lead]]
+[[Topping]]
+[[Match Recording]]
+[[Impact Award Presenter]]
