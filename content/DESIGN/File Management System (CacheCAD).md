@@ -1,4 +1,4 @@
-CacheCAD is a file management interface for Google Drive developed with Team 8096, Cache Money. We will be using it to upload and download each other's changes when working on the robot.
+CacheCAD is a file management interface for Google Drive developed by Team 8096, Cache Money. We will be using it to upload and download each other's changes when working on the robot.
 
 Check out the [[CacheCAD Setup]] page for installation instructions if this is your first time using the program/are looking to add a new project.
 

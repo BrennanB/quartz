@@ -3,8 +3,8 @@ Welcome to the design section!
 # Things to Learn:
 
 [[Motors]]
-[[Solidworks]]
-[[CacheCAD]]
+[[SolidWorks Intro]]
+[[File Management System (CacheCAD)]]
 [[Motor Controller]]
 
 # Also want to consider
