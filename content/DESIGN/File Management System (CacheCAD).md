@@ -10,6 +10,3 @@ To work on the robot:
 5. Open the "2024 Robot" project in CacheCAD, there should be a number of files to upload
 6. Click on "Upload Changes", deselect any files that you don't want to upload to the main save copy, then click on "Upload Changes" again
 7. Congratulations! You have now contributed to our robot!
-
-
-[[File Naming Convention#^6658f8]]
