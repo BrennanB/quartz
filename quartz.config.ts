@@ -3,13 +3,13 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🧇 W.A.F.F.L.E.S. Reference Site",
+    pageTitle: "🧇 W.A.F.F.L.E.S. Wiki",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "wiki.wafflesrobotics.com",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
@@ -22,22 +22,22 @@ const config: QuartzConfig = {
         lightMode: {
           light: "#faf8f8",
           lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
+          gray: "#808080",
+          darkgray: "#000000",
           dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
+          secondary: "#000000",
+          tertiary: "#cfab04",
+          highlight: "rgba(240, 182, 55, 0.15)",
         },
         darkMode: {
           light: "#161618",
           lightgray: "#393639",
-          gray: "#646464",
+          gray: "#FFF787",
           darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
+          dark: "#f0f0f0",
+          secondary: "#FFF00D",
+          tertiary: "#b38300",
+          highlight: "rgba(240, 182, 55, 0.15)",
         },
       },
     },

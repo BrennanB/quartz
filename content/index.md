@@ -13,6 +13,7 @@ I'm not really sure what the best format is for things, but I think it can gener
 - [[Electrical]]
 - [[Previous 4476 Robots]]
 - [[Meetings]]
+- [[Software]]
 
 # Obsidian Stuff
 

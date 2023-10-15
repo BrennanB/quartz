@@ -1,9 +1,9 @@
 Lots of cool information about operators below!
 ## Driver Overview:
 
-The robot operator is one of five #driveteam  members who are field-side during the teams matches. As the name suggests, they are responsible for operating the robot during a match.
+The robot operator is one of five [[Drive Team]] members who are field-side during the teams matches. As the name suggests, they are responsible for operating the robot during a match.
 
-Like the other drive team members, it is expected that the operator attends all team competitions, as well as the [[Practice Field Trip]] that happens during the final weeks of build season (generally in Hamilton or Toronto). 
+Like the other drive team members, it is expected that the operator attends all team competitions, as well as the [[practice field trip]] that happens during the final weeks of build season (generally in Hamilton or Toronto.) 
 ## Currently Filled By:
 
 Finlay L.
@@ -32,3 +32,5 @@ The operator reports to the [[Drive Coach]].
 - Aidan B. (2017 #Jasnoor)
 - Logan B. (2016 #Aaryan)
 - Michael A. (2013 #AuntJemima, 2014 #Mackenzie & 2015 #Kevin)
+
+Tags: #driveteam 
