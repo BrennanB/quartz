@@ -1,7 +1,7 @@
 Competitions are a large part of what we do at W.A.F.F.L.E.S.! Unlike in-season, where our goal is to help you learn whatever aspect of the team you are interested in, at an event the team arrives with defined roles to help improve clarity and overall performance. This section outlines the different roles that the team uses.
 # Drive Team Roles
 
-All but one member of the drive team must be a student. A mentor may be the [[Drive Coach]] or [[Technician]]. Traditionally we opt for a [[mentor]] drive coach
+All but one member of the [[Drive Team]] must be a student. A mentor may be the [[Drive Coach]] or [[Technician]]. Traditionally we opt for a [[mentor]] drive coach. All members follow the [[Drive Team Philosophy]].
 - [[Driver]]
 - [[Operator]]
 - [[Human Player]]
