@@ -6,5 +6,5 @@ Key features of the motor include a 15T [[spline shaft]] ( #SplineXS), which is 
 
 Additionally, Krakens are compatible with an [[Anderson PowerPole]] adapter board. Instead of having wires which directly screw into the back of the motor, this board can be used to improve wire routing in certain applications.
 
-![[Pasted image 20231013152257.png |250x250]]
+![[Kraken Front.png|250x250]]
 ![[Pasted image 20231013152742.png|250x250]]

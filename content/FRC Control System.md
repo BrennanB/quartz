@@ -8,6 +8,6 @@ By the [[Game Manual]], every FRC robot must have the same control system. This 
 #MainBreaker 
 
 ## [[CTRE]] Wiring
-![[Screenshot 2023-10-14 200527.png]]
+![[CTRE Control System.png]]
 ## [[REV]] Wiring
-![[Screenshot 2023-10-14 200813.png]]
+![[Rev Control System.png]]

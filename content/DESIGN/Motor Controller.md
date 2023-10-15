@@ -7,7 +7,7 @@ Brushless Motor Controllers:
 #SparkMAX 
 #SparkFLEX
 
-![[Pasted image 20231013150743.png | 100x100]]
+![[Spark Max.png| 100x100]]
 
 Brushed Motor Controllers:
 *Many of these are depreciated, but you might see them on old robots or around the shop!*

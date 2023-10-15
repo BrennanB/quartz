@@ -7,5 +7,5 @@ While not officially confirmed, it is widely believed to be a discontinued motor
 Falcons were used by 4476 on robots from 2020-2023: #Tanner #Leia #Misha-and-Zoey 
 
 [Website](https://www.vexrobotics.com/217-6515.html)
-![[Pasted image 20231013134356.png |250x250]]
-![[Pasted image 20231013140006.png|250x250]]
+![[Falcon 500 Back.png|250x250]]
+![[Falcon 500 Front.png|250x250]]

@@ -8,5 +8,5 @@ Team 4476 began using NEO motors in 2020 #Tanner, and they were also used on the
 
 https://revrobotics.ca/rev-21-1650/
 
-![[Pasted image 20231013142855.png|250x250]]
-![[Pasted image 20231013143042.png|250x250]]
+![[Neo Front.png|250x250]]
+![[Neo Back.png|250x250]]

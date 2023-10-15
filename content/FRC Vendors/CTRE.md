@@ -5,10 +5,10 @@ Cross The Road Electronics is an FRC vendor that specializes in electronics, suc
 - CANCoder
 - CANivore
 - CANdle
-- Power Distribution Panel
-- Voltage Regulator Module
+- Power Distribution Panel #PDP
+- Voltage Regulator Module #VRM
 - Victor SPX
-- Pneumatic Control Module
+- Pneumatic Control Module #PCM
 - Talon SRX
 
 ### [Website](https://store.ctr-electronics.com/)
