@@ -5,7 +5,21 @@ By the [[Game Manual]], every FRC robot must have the same control system. This 
 
 #Radio:This is how the robot communicates with the #FMS and the [[Driver]]/[[Operator]]. Until the 2025 Season, all teams must use the same OM5p radio. It has 1 Power Over Ethernet(PoE) input, 1 Barrel Jack and 2 Ethernet outputs. It will connect to the #RoboRio by an ethernet that may or may not be PoE powered by a #VRM or #RPM.  It can also be powered by a standard barrel jack that is connected to the 12V/2A on the VRM, or a small fuse on the PDH. Network Table devices such as [[LimeLight]] may be plugged into the output ethernet jacks for video and coordinate transmissions. 
 
-#MainBreaker 
+#MainBreaker 120A thermal breaker separates the battery from the Power Distribution Hub/Panel #PDH #PDP .  It acts as the main on/off switch for the robot
+
+#PDH / #PDP 
+
+#Actuators
+
+#RSL
+
+Digital Sensors
+
+Analog Sensors
+
+[[Pneumatics]]
+
+
 
 ## [[CTRE]] Wiring
 ![[CTRE Control System.png]]

@@ -5,4 +5,3 @@
 ## Expectations
 
 ## Reports To
-[[FRC Coordinator]]
