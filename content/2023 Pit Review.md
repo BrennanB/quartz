@@ -38,44 +38,44 @@ Present: Eden, Quinton, Kenneth, Meaghan, Brennan
 			- All pit members should be familiar with this
 			- Pit members try controlling the robot pre-competition so they’re comfortable with it when testing at comps
 	- “Test” autos w/ logs, current draw, etc.
-- Practice field
-	- Have a designated spot to write down when we have slots
-	- Not always sure who should be going
-	- Sometimes didn’t know goals for practice field slots - communicate that better
-- Generally have only the people that really need to be there - space limited, time limited
-- Would help with remembering to bring specific game pieces, fresh batteries, ethernet, etc.
-- Be 100% ready in terms of software - computer on, code ready to deploy, etc.
-- Visit the practice field ahead of time, know where it is and where to park the cart
-- Checklists
-- Make sure all items are updated & relevant to current robot
-- Pit students should be the ones that make the checklists since they will be using them
-- Maybe have a box for “was there a problem” to check after match
-- Look at reformatting - didn’t need multiple rows for the same thing, can just erase
-- Additions
-- “In depth inspection on a part of the robot that no one has looked at recently” - would be in a different section or a different sheet (not pre-match specifically)
-- Have a list of every section of the robot, pick one to check off until they’re all checked off, erase and start again
-- Eg. specific swerve module, specific arm joint, etc.
-- “Look at something that isn’t on the checklist”
-- Closer inspections and physical checks
-- Dealing with pit scouts
-- Was good to have someone else talk to them outside of the pit if pit students are busy
-- Be familiar with the technical handout
-- Prioritize time - if it isn’t a good time, it’s ok to politely tell pit scouts to come back later
-- Sitting vs standing
-- Chairs/stools take up space when doing systems checks and repairs
-- Need to be ready to jump in as needed
-- It’s fine to sit when nothing else needs to be done
-- Be more conscious & communicative about times where pit students can walk around in the pits to talk to other teams
-- When not needed on practice field, in down time when robot is at 100%, etc.
-- Send more slack updates for people in the stands and on DT!  Did some this year but can do more to keep people in the loop and at ease
-- Give better examples/communicate better about intensity level, hustle, and efficiency required as a pit crew member
-- Don’t overpack!
-- Don’t have extra/unnecessary people in the pit
-- Better planning for lunch breaks
-- Being more diligent about no horseplay
-- Cart improvements
-- Spot for driver station
-- Spot for battery
-- Repair rail attachments
-- Ethernet spool
+	- Practice field
+		- Have a designated spot to write down when we have slots
+		- Not always sure who should be going
+		- Sometimes didn’t know goals for practice field slots - communicate that better
+		- Generally have only the people that really need to be there - space limited, time limited
+		- Would help with remembering to bring specific game pieces, fresh batteries, ethernet, etc.
+		- Be 100% ready in terms of software - computer on, code ready to deploy, etc.
+		- Visit the practice field ahead of time, know where it is and where to park the cart
+	- Checklists
+		- Make sure all items are updated & relevant to current robot
+		- Pit students should be the ones that make the checklists since they will be using them
+		- Maybe have a box for “was there a problem” to check after match
+		- Look at reformatting - didn’t need multiple rows for the same thing, can just erase
+		- Additions
+			- “In depth inspection on a part of the robot that no one has looked at recently” - would be in a different section or a different sheet (not pre-match specifically)
+			- Have a list of every section of the robot, pick one to check off until they’re all checked off, erase and start again
+				- Eg. specific swerve module, specific arm joint, etc.
+			- “Look at something that isn’t on the checklist”
+	- Closer inspections and physical checks
+	- Dealing with pit scouts
+		- Was good to have someone else talk to them outside of the pit if pit students are busy
+		- Be familiar with the technical handout
+		- Prioritize time - if it isn’t a good time, it’s ok to politely tell pit scouts to come back later
+	- Sitting vs standing
+		- Chairs/stools take up space when doing systems checks and repairs
+		- Need to be ready to jump in as needed
+		- It’s fine to sit when nothing else needs to be done
+	- Be more conscious & communicative about times where pit students can walk around in the pits to talk to other teams
+		- When not needed on practice field, in down time when robot is at 100%, etc.
+	- Send more slack updates for people in the stands and on DT!  Did some this year but can do more to keep people in the loop and at ease
+	- Give better examples/communicate better about intensity level, hustle, and efficiency required as a pit crew member
+	- Don’t overpack!
+	- Don’t have extra/unnecessary people in the pit
+	- Better planning for lunch breaks
+	- Being more diligent about no horseplay
+	- Cart improvements
+		- Spot for driver station
+		- Spot for battery
+		- Repair rail attachments
+		- Ethernet spool
 
