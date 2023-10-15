@@ -1,7 +1,7 @@
 Lots of cool information about human players below!
 ## Human Player Overview:
 
-The human player is one of five #driveteam  members who are field-side during the teams matches. They
+The human player is one of five #driveteam  members who are field-side during the teams matches. They are often in charge of introducing game elements to the field and/or to the robot at a loading station.
 
 Like the other drive team members, it is expected that the human player attends all team competitions, as well as the #PracticeFieldTrip that happens during the final weeks of build season (generally in Hamilton or Toronto). 
 ## Currently Filled By:
