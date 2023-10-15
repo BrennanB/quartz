@@ -3,7 +3,7 @@ Lots of cool information about drivers below!
 
 The robot driver is one of five #driveteam  members who are field-side during the teams matches. As the name suggests, they are responsible for driving the robot during a match.
 
-Like the other drive team members, it is expected that the driver attends all team competitions, as well as the #PracticeFieldTrip that happens during the final weeks of build season (generally in Hamilton or Toronto). 
+Like the other drive team members, it is expected that the driver attends all team competitions, as well as the [[Practice Field Trip]] that happens during the final weeks of build season (generally in Hamilton or Toronto). 
 ## Currently Filled By:
 
 No one! Check out [[#Previous Team Drivers]] to learn more
