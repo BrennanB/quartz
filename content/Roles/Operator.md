@@ -1,5 +1,5 @@
 Lots of cool information about operators below!
-## Driver Overview
+## Driver Overview:
 
 The robot operator is one of five #driveteam  members who are field-side during the teams matches. As the name suggests, they are responsible for operating the robot during a match.
 
@@ -7,12 +7,12 @@ Like the other drive team members, it is expected that the operator attends all 
 ## Currently Filled By:
 
 Finlay L.
-## Driver Responsibilities
+## Driver Responsibilities:
 
 - Operate the robot during matches as part of the Drive Team (controlling the additional mechanisms of the robot such as an intake, arm, shooter, not the drive base)
 - Present positively to other teams as an ambassador of our team
 - Adhere to the [[Drive Team Philosophy]]
-## Desirable Qualities
+## Desirable Qualities:
 
 - Driver skill, self-improvement, focus, and dedication 
 - Strong listening, communication, and teamwork skills
@@ -20,7 +20,10 @@ Finlay L.
 - Exhibit calmness under pressure, with quick reactions and ability to adapt quickly
 - Attend and actively participate in many driver practice sessions 
 - Involvement in several aspects of the team over the course of the year, not just build season
-## Previous Team Operators
+## Reports To:
+
+The operator reports to the [[Drive Coach]].
+## Previous Team Operators:
 
 - Finlay L. (2023 #Misha-and-Zoey)
 - Abdel A. (2022 #Leia)
