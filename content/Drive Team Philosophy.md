@@ -16,6 +16,7 @@ We follow this chain of command to ensure as quick of a response time to react t
 
 The [[Drive Coach]] is responsible for the major strategic decisions because all other members on the drive team have robot specific tasks to complete. This frees them up to interact with partner teams and observe the whole field in detail to make the most informed next steps for our execution of [[Strategy]].
 
+
 # We Do Our Best
 
 Our goal for each match is to execute the agreed upon strategy to the best of our abilities
