@@ -13,6 +13,7 @@ All but one member of the drive team must be a student. A mentor may be the [[Dr
 # Scouting & Strategy Team Roles
 - [[Scouting Lead Mentor]]
 - [[Lead Student Scout]]
+- [[Strategy Lead Mentor]]
 - [[Strategy Student]]
 - [[Scout]]
 - [[Online Scout]]
