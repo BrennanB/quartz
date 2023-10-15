@@ -23,7 +23,6 @@ No one! Check out [[#Previous Team Drivers]] to learn more
 ## Reports To:
 
 The driver reports to the [[Drive Coach]].
-
 ## Previous Team Drivers:
 
 - Benjamin V. (2022 #Leia & 2023 #Misha-and-Zoey)
