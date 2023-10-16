@@ -13,6 +13,6 @@ These are the five [[FRC]] legal brushless motors:
 PLEASE NOTE: During prototyping early in the season, we will often 'jerry rig' motors to run using drill batteries and wiring them up. In this case, brushed motors **must** be used.
 
 There are several [[FRC]] legal brushed motors. The most common are:
-#Cims #MiniCims #775Pros #RedLines
+[[Cim]] [[Mini Cim]] #775Pros #RedLines
 
 People will often joke about using #SnowblowerMotors or #WindowMotors. These are a real thing! They're incredibly underpowered, slow, and should never go on an FRC robot.
