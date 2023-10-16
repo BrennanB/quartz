@@ -8,7 +8,7 @@ The game was centered around launching [[Discs]] (Frisbees) into four levels of 
 
 ## Team Abilities
 
-2013 was the rookie year for [[W.A.F.F.L.E.S.]] and we had extremely limited [[Manufacturing]] resources, as well as a low level of overall experience with designing and making robots. 
+2013 was the rookie year for [[W.A.F.F.L.E.S.]] and we had extremely limited [[Manufacturing]] resources, as well as a low level of overall experience with designing and making robots. Some aluminum [[welding]] was done externally, as well as some cutting for the final intake. The rest of the manufacturing was done with simple hand tools.
 
 ## Robot Name
 
