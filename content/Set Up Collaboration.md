@@ -7,6 +7,7 @@
 7. Open Obsidian and select "Open folder as vault" and select the Quartz folder, then content folder.
 8. Make changes as needed!
 9. Use GitHub to pull changes to get the most up to date version
+10. Review [[Obsidian Tips]]
 
 # Pushing an Update
 

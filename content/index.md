@@ -17,6 +17,6 @@ I'm not really sure what the best format is for things, but I think it can gener
 
 # Obsidian Stuff
 
-- [[Markdown Tips]]
+- [[Obsidian Tips]]
 - [[Set Up Collaboration]]
 
