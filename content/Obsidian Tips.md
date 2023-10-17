@@ -10,7 +10,7 @@ Using `[[is an internal link]]` [[Index]]
 
 Using `[is an external link](https://www.google.com/)`[is an external link](https://www.google.com/)
 
-Using `# header 1` for headers
+Using `# header 1` for headers, each # brings one layer down
 
 # New notes/pages vs tags
 
@@ -24,6 +24,7 @@ Using `# header 1` for headers
 - Roborio
 - PDH
 - Cim motor
+- Solidworks
 
 ## Mix of both
 
