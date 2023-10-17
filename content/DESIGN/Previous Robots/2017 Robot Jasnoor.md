@@ -8,6 +8,7 @@
 
 ## Fun Lore
 
+- 
 # The Robot
 
 ![[Pasted image 20231016191438.png]]

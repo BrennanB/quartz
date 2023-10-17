@@ -8,6 +8,9 @@
 
 ## Fun Lore
 
+- Double team spirit award year
+- We called our can grabber 'the flying T'
+- "The Flying T" fell down during an elims match because we forgot to winch up the motor and it descored a bunch of stacks
 # The Robot
 
 ![[Pasted image 20231016190138.png]]

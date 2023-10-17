@@ -8,6 +8,8 @@
 
 ## Fun Lore
 
+- This robot ended on a high! The last shot it ever took in its last match at the 2016 STEMley Cup event, was the first time it scored in the high goal!
+
 # The Robot
 
 ![[Pasted image 20231016191239.png]]
