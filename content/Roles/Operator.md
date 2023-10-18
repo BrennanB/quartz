@@ -25,12 +25,12 @@ Finlay L.
 The operator reports to the [[Drive Coach]].
 ## Previous Team Operators:
 
-- Finlay L. (2023 #Misha-and-Zoey)
-- Abdel A. (2022 #Leia)
+- Finlay L. ([[2023 Robot Misha and Zoey]])
+- Abdel A. ([[2022 Robot Leia]])
 	- Shoutout to Ryan C. for filling in at an event when Abdel had COVID!
-- Duncan S. (2018 #Melia, 2019 #Charlie & 2020 #Tanner)
-- Aidan B. (2017 #Jasnoor)
-- Logan B. (2016 #Aaryan)
-- Michael A. (2013 #AuntJemima, 2014 #Mackenzie & 2015 #Kevin)
+- Duncan S. ([[2018 Robot Mélia]], [[2019 Robot Charlie]], [[2020 Robot Tanner]])
+- Aidan B. ([[2017 Robot Jasnoor]])
+- Logan B. ([[2016 Robot Aaryan]])
+- Michael A. ([[2013 Robot Aunt Jemima]], [[2014 Robot Mackenzie]], [[2015 Robot Kevin]])
 
 Tags: #driveteam 

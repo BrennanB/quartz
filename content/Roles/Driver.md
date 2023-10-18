@@ -25,7 +25,7 @@ No one! Check out [[#Previous Team Drivers]] to learn more
 The driver reports to the [[Drive Coach]].
 ## Previous Team Drivers:
 
-- Benjamin V. (2022 #Leia & 2023 #Misha-and-Zoey)
-- Logan B. (2017 #Jasnoor, 2018 #Melia, 2019 #Charlie & 2020 #Tanner)
-- Aidan B. (2015 #Kevin & 2016 #Aaryan)
-- Brennan B. (2013 #AuntJemima & 2014 #Mackenzie)
+- Benjamin V. ([[2022 Robot Leia]], [[2023 Robot Misha and Zoey]])
+- Logan B. ([[2017 Robot Jasnoor]], [[2018 Robot Mélia]], [[2019 Robot Charlie]], [[2020 Robot Tanner]])
+- Aidan B. ([[2015 Robot Kevin]], [[2016 Robot Aaryan]])
+- Brennan B. ([[2013 Robot Aunt Jemima]], [[2014 Robot Mackenzie]])
