@@ -1,0 +1,68 @@
+# Things I learned:
+- I need a lot more dance practice and more team mates up dancing so no one notices when I mess up :)
+- We do just as much as any other chairman's team!
+- A good pick list really affects an alliance as a whole in the playoffs
+- You never have enough time to fix everything, you have to pick and chose what you want fixed
+- This is a hard game where few robots do more than one thing well.  We need to focus on our strengths and the strategy set out at the beginning of the season.
+- With a little more practice time, we can improve significantly.  This is true for other teams and I expect teams which have a second play North Bay will improve as well.
+- This year's game is much harder than i initially thought
+- Putting untested or unproven mechanisms‎ on the field for the first time usually doesn't work 
+- how a tournament really feels like
+- why scouting is important
+- To stay out of the way of others when in the pit
+- The flow of the chairmanship presentation 
+- Always, always go back to your priority list, no matter how late in the season it is.
+- Having sour keys in the pit was much appreciated by a number of the pit crew members...  And a few other people...
+- Once again, no matter how late in the season, make sure that you aren't over complicating things or being overambitious.
+- We are better when we focused on a strategy that suited our robot better
+- We are a very young team and there is still much learning to be had
+- Taking a step back and clearing your head can give you a new perspective on a problem that may help solve it
+- Less people in the pit leads to more efficient work
+- Having everyone be an expert on a few teams leads to better scouting. That way, everyone is an expert on something and can speak at length about it.
+# Things the team did well:
+- Putting our people in the right roles, while still giving opportunities to try out other roles.
+- Helping other teams
+	- Helping other teams - 4015 and 2013 for example - which is an investment of 'good will' with these teams, is founded in our team culture and often gets back to the judges.
+	- Our gp game was strong; we were friendly, 4015 help stuff, pick list‎ guide
+	- with are gratis professionalism
+	- Helping other teams get their robots working when they didn't have something else to do.
+- Strategy and Scouting - I was impressed on the quality of observations and input at the scouting meeting as well as how well the scouting group worked in the stands.
+	- Scouts were awesome getting useful data and not missing many matches
+	- Deciding what we needed to change on our robot. In the scouting meeting, on the spot, we decided to change things based on the results of our performance on the field. This shows flexibility.
+- Great job with chairman's
+- working together 
+	- We were enthusiastic and kept persevering through our many problems
+	- Worked well together and stayed on track pretty much all throughout the regional
+	- To repair the robot quickly and effectively 
+	- Drive team and pit teams were doing great getting our bot changed for matches and adapting to different robot abilities
+	- Making sure you didn't crowd the pit when you weren't doing anything
+	- Driveteam communication was solid (Recording audio helped reinforce good communication skills)
+- Staying calm in times of stress 
+	- Staying positive and working, even when the robot was not working as well as we would have liked (and getting it working in the end).
+	- Remaining positive and focused when dealing with tough problems
+- Walked when all the teams ran to the stands. Showed Gracious Professionalism.
+# Things we should work on:
+- More enthusiasm/chattiness with judges by all. 
+	- Inviting the judges to talk and come into the pit 
+	- Make the pit more approachable to judges and other teams
+- More networking with other teams at events.  Make sure we connect with our alliance partners afterwards to say thanks, etc.
+- Keeping people who need to be in the pit, in the pit and focused
+- Using the checklists so we don't have anymore problems with robot subsystems not working
+- Objective assessment of our capabilities to use in our excellent strategy and scouting processes. 
+	- Look into strategy to help get us a high qual  average with a capping robot
+- Recognize individuals for a job well done!  Success in not synonymous with winning.
+- Simplifying our strategy and robot
+	- deciding to focus on topping sooner
+	- Being the best capper at NB
+- We should decide what plan we really want from the beginning to have and stay with that one instead of changing it in the middle of the tournament. Now that we know we are cappers we can focus on improving that aspect of our robot.
+- Team Image
+	- Have all team members in team apparel ie shirts...if too cold maybe wear a black long sleeve underneath 
+	- more cheering
+- Listening to others' points and ideas (ie. during the scouting meeting).
+- Keeping the pit neat and tidy when working
+	- All members keeping the pit clean and safe at all times as well as speaking to other teams and/or judges.
+	- To put tools back where they belong once we are done using them in the pit 
+- Stronger Pre/Post Match Analysis
+	- Use the expert scouts as a first source of information, not second. (eyes are better than numbers)
+	- Record, and rewatch post match video.
+	- Prioritize flow of the game more. Specialize when needed.

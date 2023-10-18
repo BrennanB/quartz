@@ -2,7 +2,7 @@ Electrical is the backbone of what actually makes the robot move. Without solid 
 
 # Things to Learn
 
-- [[Radio Modification]]
+- [Radio Modification](https://docs.wpilib.org/en/stable/docs/networking/networking-introduction/om5p-ac-radio-modification.html)
 - [[FRC Control System]]
 - [[Motors]]
 - [[Motor Controller]]

@@ -1,5 +1,9 @@
 Choosing the right [[Motors]] for the right application is important to the success of a good robot. Here is our current recommendations for what applications a motor is best for. For each motor it's important to select an appropriate gear ratio for it's application in a mechanism. You can learn more about [[Choosing Ratios]] here.
 
+# Comparing Motors
+
+Recalc has a page dedicated to comparing the attributes of motors you can find [here](https://www.reca.lc/motors).
+
 # Brushed Motors
 
 Currently we do not use any brushed motors. Brushed motors have lower efficiency than their brushless counterparts. They also do not have integrated encoders on them, which allow for much easier packaging for fine tuned control. The last robot we used brushed motors on was [[2022 Robot Leia]].
