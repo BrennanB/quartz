@@ -8,3 +8,7 @@ To select an appropriate ratio for a mechanism, we first need to set some baseli
 ## How Much Mass?
 
 The simplest answer for some of these mechanism is simply how heavy is the thing you are trying to move? This can be solved by getting a [[weight estimate]] either through [[Solidworks]] or weighing actual parts on a scale (or a combination of both!).
+
+# Design Calculator
+
+We use [Recalc](https://www.reca.lc/) to do the math calculations for our mechanisms. Each calculation has a unique url that you can copy and save for reference later.
