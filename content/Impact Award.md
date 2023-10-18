@@ -1,0 +1,1 @@
+Winners of the Impact Award at [[World Championship]] are inducted into the [[Hall of Fame]].
