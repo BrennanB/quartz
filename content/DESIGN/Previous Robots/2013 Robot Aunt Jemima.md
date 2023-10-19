@@ -4,7 +4,7 @@
 
 [[Ultimate Ascent]] was the 2013 game.
 
-The game was centered around launching [[Discs]] (Frisbees) into four levels of goals. The most challenging and highest level of goal was only able to be scored on by colored discs, of which there were far less of them. There was an endgame where teams had to [[Climb]] a jungle gym like pyramid to up to three levels. 
+The game was centered around launching [[Discs]] (Frisbees) into four levels of goals. The most challenging and highest level of goal was only able to be scored on by colored discs, of which there were far less of them. There was an endgame where teams had to #Climber a jungle gym like pyramid to up to three levels. 
 
 ## Team Abilities
 
@@ -38,7 +38,7 @@ The drivetrain was a simple unmodified 4 [[Cim]] [[Kitbot]] chassis featuring a 
 For the most part the #drivetrain had no critical issues. There were some wheel cracking issues that did happen over the season with the 6 inch high grip wheels from [[AndyMark]]. However this was with an older version of the current high grip wheel where there was less support around the spokes compared to now.
 ![[Pasted image 20231015203751.png]]
 
-Due to the extreme weight of the [[Intake]], the deployment state of it would shift the weight distribution on the robot dramatically, which contributed to some inconsistency with driving and [[Autonomous]] modes
+Due to the extreme weight of the #Intake, the deployment state of it would shift the weight distribution on the robot dramatically, which contributed to some inconsistency with driving and [[Autonomous]] modes
 ### Intake
 
 The intake was designed to be compliant to allow discs to 

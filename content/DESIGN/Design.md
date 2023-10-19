@@ -1,10 +1,12 @@
 Welcome to the design section!
 
-# Things to Learn:
+# Things to Learn
 
 - [[Design Process]]
+- [[Mechanism]]s
 - [[Choosing Motors]]
 - [[Choosing Ratios]]
+- [[Choosing Materials]]
 - [[Choosing Fasteners]]
 - [[SolidWorks Intro]]
 - [[File Management System (CacheCAD)]]

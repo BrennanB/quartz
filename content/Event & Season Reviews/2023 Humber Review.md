@@ -58,7 +58,7 @@
 | Ibrahim felt like he understood what was going on and felt confidence improving over the course of the event                                       | Would be good for ibrahim to be able to watch more matches even when being stuck in the [[Pit]], felt like he didn't know the recent stuff happening (twitch?), pit stream is unreliable |
 | Seemed to be strategically sound                                                                                                                   | Too many people talking at a time in alliance [[Strategy]]                                                                                                                               |
 | Enjoyed talking to other teams                                                                                                                     | being clear with other teams about boundaries                                                                                                                                        |
-| Newfound appreciation for how Taegen/Brennan interact with other teams because sometimes they can be difficult, we managed some hard conversations | Had some difficulties getting the right team to [[match review]] (awareness)                                                                                                             |
+| Newfound appreciation for how Taegen/Brennan interact with other teams because sometimes they can be difficult, we managed some hard conversations | Had some difficulties getting the right team to [[Match Review]] (awareness)                                                                                                             |
 
 
 # Pit

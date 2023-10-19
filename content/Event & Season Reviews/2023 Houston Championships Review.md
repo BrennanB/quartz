@@ -74,7 +74,7 @@
 - Need to get more tools (esp. wrenches, maybe some with built in ratchet wrenches)
 - Need new hacksaw blades
 - Newfound understanding of modular [[Pit]]s (3015, 111 fieldside pit was very fast)
-- Side thought: 118 uses grout sponges for [[Intake]] 
+- Side thought: 118 uses grout sponges for #Intake 
 - Make sure to physically manipulate parts of the robot during pre-match checks (manipulate is the key word - Karly)
 - Make sure that pit crew communicates that checks have been done to non-pit crew people
 	- Also communicate when it was checked/how recently
