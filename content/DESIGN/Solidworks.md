@@ -1,4 +1,1 @@
-Solidworks is our cad system!
-
-[[File Naming Convention]]
-[[CacheCAD]]
+Check out [[SolidWorks Intro]] and [[SolidWorks Setup]] to get started

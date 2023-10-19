@@ -1,0 +1,1 @@
+The Spark Max is the only [[Motor Controller]] that is both brushed and brushless compatible.
