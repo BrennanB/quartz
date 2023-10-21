@@ -81,7 +81,7 @@ So here is what we do already:
 6. Taking the time to refocus, relax, and talk during stressful situations
 7. Positive reinforcement to the drive team members. Making sure that they know the match result is not everything
 
-Things we can improve
+Things we can improve ([[Implement for 2024]])
 
 1. Doing something fun completely unrelated to robots to disrupt potentially negative thinking
 2. Better structure around focusing one match at a time. It's fine to briefly think about the future, but the now is always more important.

@@ -25,5 +25,5 @@ This site is still very much a work in progress and formatting is constantly cha
 # Obsidian Stuff
 
 - [[Obsidian Tips]]
-- [[Set Up Collaboration]]
+- [[Set Up Wiki Collaboration]]
 

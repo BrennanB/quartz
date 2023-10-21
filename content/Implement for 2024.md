@@ -25,6 +25,13 @@
 - Convert all features from current Excel sheet to online
 - New scouting tablets (from summer camp)
 
+
+# [[Drive Team]]
+
+## Reducing Stress Levels
+
+1. Doing something fun completely unrelated to robots to disrupt potentially negative thinking
+2. Better structure around focusing one match at a time. It's fine to briefly think about the future, but the now is always more important.
 # [[Design]]
 
 - Part and [[Assembly]] [[Drawings]]
