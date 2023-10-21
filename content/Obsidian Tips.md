@@ -13,7 +13,23 @@ Stuff that's hosted on the site:
 - [[Competition Roles]] documentation, as well as how we actually execute each role, what we care about
 - [[Previous 4476 Robots]] and learnings from old robots that are easily referenceable so we can learn from past mistakes and successes
 - [[FRC Season Reviews]] for detailed looks at an [[FRC]] season as a whole, what strategies, robots, and mechanisms were dominant and why.
-# New notes/pages vs tags
+## New notes/pages vs tags
+### Tags for general concepts
+
+- CAD
+- Design
+- Strategy
+- Solidworks
+### Pages/notes for physical things we may want info on
+
+- Roborio
+- PDH
+- Cim motor
+- Solidworks
+
+### Mix of both
+
+CAD will have its own page describing what it is, but notes will have tags for those concepts broadly, as we wont link to the CAD page on every single note.
 
 # Editing Syntax
 ## Markdown stuff
@@ -85,22 +101,7 @@ pie title Reading Documentation
 ### Gantt Charts
 
 [Gantt chart documentation stuff](https://mermaid.js.org/syntax/gantt.html) Example gantt chart for [[Season Timeline]]
-## Tags for general concepts
 
-- CAD
-- Design
-- Strategy
-- Solidworks
-## Pages/notes for physical things we may want info on
-
-- Roborio
-- PDH
-- Cim motor
-- Solidworks
-
-## Mix of both
-
-CAD will have its own page describing what it is, but notes will have tags for those concepts broadly, as we wont link to the CAD page on every single note.
 
 # Recommended Plugins
 
