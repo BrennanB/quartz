@@ -4,7 +4,7 @@
 
 ## Team Abilities
 
-2014 was the first year the robot was designed prior to manufacturing. The team had an influx of new strong [[mentor]]s who were alumni of other teams. This year the team invested in a small tabletop [[Drill Press]] and had a few parts that were manufactured by a local engineering firm. The rest of the robot was [[COTS]] or made with simple hand tools much like [[2013 Robot Aunt Jemima]].
+2014 was the first year the robot was designed prior to manufacturing. The team had an influx of new strong [[Mentor]]s who were alumni of other teams. This year the team invested in a small tabletop [[Drill Press]] and had a few parts that were manufactured by a local engineering firm. The rest of the robot was [[COTS]] or made with simple hand tools much like [[2013 Robot Aunt Jemima]].
 
 ## Robot Name
 

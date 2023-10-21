@@ -1,7 +1,7 @@
 # Things I learned:
 - I need a lot more dance practice and more team mates up dancing so no one notices when I mess up :)
 - We do just as much as any other chairman's team ([[Impact Award]])!
-- A good [[Pick List]] really affects an [[Alliance]] as a whole in the [[Playoffs]]
+- A good [[Pick List]] really affects an [[Alliance]] as a whole in the [[Eliminations|playoffs]]
 - You never have enough time to fix everything, you have to pick and chose what you want fixed
 - This is a hard game where few robots do more than one thing well.  We need to focus on our strengths and the [[Strategy]] set out at the beginning of the season.
 - With a little more practice time, we can improve significantly.  This is true for other teams and I expect teams which have a second play North Bay will improve as well.

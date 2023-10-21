@@ -1,6 +1,6 @@
 # Who We Are
 
-W.A.F.F.L.E.S. Community Robotics is a not-for-profit, volunteer-operated organization located in Kingston, Ontario Canada.  We have a family of community-based _FIRST_ Robotics programs for youth aged 6 through 18, which are open to anyone in the area who does not have a team at their school.  Our teams are supported by a group of [[sponsors]] and [[mentor]]s who are [[alumni]] or community professionals.  We also run LEGO robotics summer camps and are a part of many community events to promote STEM in our area.
+W.A.F.F.L.E.S. Community Robotics is a not-for-profit, volunteer-operated organization located in Kingston, Ontario Canada.  We have a family of community-based _FIRST_ Robotics programs for youth aged 6 through 18, which are open to anyone in the area who does not have a team at their school.  Our teams are supported by a group of [[Sponsor|sponsor]] and [[Mentor|mentors]] who are [[alumni]] or community professionals.  We also run LEGO robotics summer camps and are a part of many community events to promote STEM in our area. 
 
 # The W.A.F.F.L.E.S. Acronym
 

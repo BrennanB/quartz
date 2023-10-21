@@ -43,13 +43,29 @@ code goes here
 Doing `---` will create a dividing line like this
 
 ---
+## YAML and Frontmatter
+
+At the very top of the page, typing `---` will start frontmatter data. This is for configuring different aspects of the page that are important.
+
+### Aliases
+
+You can configure aliases for pages (other names that the page can be linked under)
+
+![](https://i.imgur.com/MDkpNbV.png)
+
+for example the mentor page has a few aliases that when you search using a link will show up. This can help a lot with things that go under the same name but have different capitalization. It also can be used for things that may have multiple reasonable names, for example [[Eliminations|Playoffs]] and [[Eliminations|Eliminations]] both link to the same page.
+
+### Tags
+
+You can also add a tag attribute to add tags to a page.
+
 ## Mermaid Diagrams
 
 It's possible to use [Mermaid](https://mermaid.js.org/syntax/examples.html) to create charts and diagrams for Obsidian.
 
 All Mermaid charts are started with triple backticks, then mermaid
 
-## Pie Chart
+### Pie Chart
 
 ```
 pie title NETFLIX
@@ -66,7 +82,7 @@ pie title Reading Documentation
 "Skimming them": 20
 ```
 
-## Gantt Charts
+### Gantt Charts
 
 [Gantt chart documentation stuff](https://mermaid.js.org/syntax/gantt.html) Example gantt chart for [[Season Timeline]]
 ## Tags for general concepts

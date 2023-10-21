@@ -10,7 +10,7 @@ There are several ways that teams qualify for the event:
 - By winning the previous year's World Championship
 - By earning a slot on the [[Priority Waitlist]]
   
-Typically the World championship has eight [[Divisions]] of play, featuring eight [[Official Fields]] for teams to compete on. The winners of all 8 divisions will then play an additional [[Double Elimination]] bracket to crown the World Champion. The final bracket is played on the coveted [[Einstein Field]]. The winning alliance will get reinvited to the following year's championship.
+Typically the World championship has eight [[Divisions]] of play, featuring eight [[Official Fields]] for teams to compete on. The winners of all 8 divisions will then play an additional [[Eliminations]] bracket to crown the World Champion. The final bracket is played on the coveted [[Einstein Field]]. The winning alliance will get reinvited to the following year's championship.
 
 Previous Canadian Winners:
 
