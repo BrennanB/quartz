@@ -48,3 +48,7 @@ Using `>` show up as a
 ## Mix of both
 
 CAD will have its own page describing what it is, but notes will have tags for those concepts broadly, as we wont link to the CAD page on every single note.
+
+# Recommended Plugins
+
+https://github.com/gavvvr/obsidian-imgur-plugin/blob/main/README.md

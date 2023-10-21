@@ -88,4 +88,31 @@ Things we can improve ([[Implement for 2024]])
 
 In all honesty i'm not sure what the right solution is. This probably warrants a discussion with the drive team and strat team for more brainstorming
 
+# Goals for the Site
+
+I also spent some time thinking about some of the goals for the site. I really want this to be a timeless resource for the team (and other teams if they want it)
+
+The goal for this site is to have a fully comprehensive, searchable resource for all things [[W.A.F.F.L.E.S.]] so that we can improve our skills year over year. The whole website is not designed to be a guide for all teams, but a guide for our team and how we do things that other teams can read and take inspiration from for what they think can fit with their systems if they want.
+
+Stuff that's hosted on the site:
+
+- [[Design]] guidelines, how to actually design
+- [[Manufacturing]] methods and the [[Tools]] we use. When you might use some of those tools
+- [[Electrical]] references for how-tos and referencing schematics
+- [[Solidworks]] guides on getting set up and following our team's practices.
+- [[Event & Season Reviews]] for reflecting on what we did well/need to improve on.
+- #blog like notes documenting our team's process, thoughts, for later review and learning what worked and what didn't.
+- [[Competition Roles]] documentation, as well as how we actually execute each role, what we care about
+- [[Previous 4476 Robots]] and learnings from old robots that are easily referenceable so we can learn from past mistakes and successes
+- [[FRC Season Reviews]] for detailed looks at an [[FRC]] season as a whole, what strategies, robots, and mechanisms were dominant and why.
+
+# Scouting System
+
+We are also in the middle of overhauling our scouting system for the better. Timelines are tight to be ready with all the core features we want for the STEMly Cup on Nov 4th. It's a project we started in the offseason of 2022, but never got it really implemented for 2023. Now our goal of course is to get it working for 2023 Stemly at a base level, and add nice to have features for 2024.
+
+I'm sure we won't get everything implemented that I would like to have, but we do have a subdomain for hosting the site set up now at [scouting.wafflesrobotics.com](https://scouting.wafflesrobotics.com/)
+
+
+![[giphy.gif]]
+
 Brennan
