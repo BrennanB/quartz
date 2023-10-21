@@ -15,7 +15,8 @@ Stuff that's hosted on the site:
 - [[FRC Season Reviews]] for detailed looks at an [[FRC]] season as a whole, what strategies, robots, and mechanisms were dominant and why.
 # New notes/pages vs tags
 
-# Markdown stuff
+# Editing Syntax
+## Markdown stuff
 
 Using `**bold**` **bolds**
 
@@ -32,6 +33,42 @@ Using `# header 1` for headers, each # brings one layer down
 Using `>` show up as a 
 
 > quote block
+
+Triple Backticks creates a code block
+
+```
+code goes here
+```
+
+Doing `---` will create a dividing line like this
+
+---
+## Mermaid Diagrams
+
+It's possible to use [Mermaid](https://mermaid.js.org/syntax/examples.html) to create charts and diagrams for Obsidian.
+
+All Mermaid charts are started with triple backticks, then mermaid
+
+## Pie Chart
+
+```
+pie title NETFLIX
+         "Time spent looking for movie" : 90
+         "Time spent watching it" : 10
+```
+
+
+
+```mermaid
+pie title Reading Documentation
+"Reading": 10
+"Pretending to read": 70
+"Skimming them": 20
+```
+
+## Gantt Charts
+
+[Gantt chart documentation stuff](https://mermaid.js.org/syntax/gantt.html) Example gantt chart for [[Season Timeline]]
 ## Tags for general concepts
 
 - CAD
