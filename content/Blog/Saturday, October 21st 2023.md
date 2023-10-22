@@ -14,6 +14,8 @@ Main contenders are [Bambu X1](https://ca.store.bambulab.com/products/x1-carbon-
 	- MK4: 250 x 210 x 220 mm
 
 No decision was made, will look at things again and discuss with more team members.
+
+Quick update: input shaping has been fully released for MK4 which should help with speed
 # Integrating 3d printing into swerve wheels
 
 Some teams have been looking at using ~95A TPU to print their swerve wheels using [[3D Printing]].
