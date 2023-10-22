@@ -6,7 +6,7 @@ aliases:
 tags: []
 ---
 
-3D printing is a type of additive [[Manufacturing]] commonly used in the [[FRC]] community (including on [[Previous 4476 Robots]]) and in industry. As a fast and customizable method of making parts as both prototypes and end-use products
+All 3D printing technologies create solid parts layer by layer, also known as Additive [[Manufacturing]]. As a fast and customizable method of making parts as both prototypes and end-use products, 3D printing is commonly used both the [[FRC]] community (including on [[Previous 4476 Robots]]) and in industry.
 
 There are four primary methods of 3D printing:
 - [[Fused Deposition Modelling]] (FDM)
@@ -23,3 +23,4 @@ Parts that have been printed on our previous robots include [[Shooter]] hood com
 ## When To Use 3D Printing
 
 whenever u want 
+
