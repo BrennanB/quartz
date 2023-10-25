@@ -5,7 +5,7 @@ Once SolidWorks is installed, there are a number of settings you can change to m
 **Recommended (These will make life so much easier + make you CAD better)**
 - [[Check Default Units]]
 - Enable "[[Rename Components from Feature Tree]]"
-- [[Get Better Measurements]]
+- [[DESIGN/SolidWorks Setup/Get Better Measurements]]
 - [[Enable Weldments]]
 
 **Suggested (Some fun settings that make SolidWorks a bit more fun)**
