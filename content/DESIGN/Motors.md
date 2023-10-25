@@ -8,7 +8,7 @@ You can find more about that at [[Choosing Motors]].
 
 Motors are divided primarily into brushless or brushed motors, named with regard to the internal systems of the motor itself. Brushless motors began being used in FRC in 2019, and are now widely considered superior to brushed motors. Each motor also requires a [[Motor Controller]].
 
-These are the five [[FRC]] legal brushless motors:
+These are the five [[FRC]] legal [[Brushless Motors|brushless motors]]:
 - [[Kraken X60]]
 - [[Falcon 500]]
 - [[NEO Brushless V1.1]]
