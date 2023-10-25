@@ -27,3 +27,4 @@ Other teams have been starting to use the more common [[Fused Deposition Modelli
 
 Still have some reservations about delamination occurring as part of the layering from FDM modelling, as well as the resources that would need to be invested into getting this dialed in. Will keep an eye on the thread and maybe investigate again later (possibly starting with things like sushi rollers for an intake just to get practice printing with a more flexible filament)
 
+Taegen

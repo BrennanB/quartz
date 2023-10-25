@@ -13,6 +13,8 @@
 - Meme video from 2018
 
 # The Robot
+![](https://www.youtube.com/watch?v=gHhQ5Sa3Saw)
+
 
 ## Mechanical Design
 

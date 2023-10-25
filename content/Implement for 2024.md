@@ -25,6 +25,10 @@
 - Convert all features from current Excel sheet to online
 - New scouting tablets (from summer camp)
 
+# [[Strategy]]
+
+- [[Slack]] threads for every quals match and [[Eliminations|elims]] alliances.
+
 
 # [[Drive Team]]
 

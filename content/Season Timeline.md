@@ -19,4 +19,3 @@ CAD Robot: c, after p, 7d
 section Awards
 Robot Handouts: d, after c, 2w
 ```
-

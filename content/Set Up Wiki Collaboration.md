@@ -20,6 +20,22 @@
  ![[Commit Git Desktop.png]] 
    
 4. Push to origin to update the site.
-   
+ 
+  
  ![[Push to Origin Git Desktop.png]]
+ 
+ 
 5. The website will automatically refresh after a few minutes with your changes!
+# Obsidian Configuration
+
+## Daily Notes
+
+1. Click Settings
+   
+   ![](https://i.imgur.com/jXYCJbP.png)
+2. Click Daily Notes in the core plugins
+   
+   ![](https://i.imgur.com/aH9NcQd.png)
+3. Update day format to `YYYY/MM-MMMM/dddd, Do MMMM  y`, and New File Location to `Blog`
+   
+   ![](https://i.imgur.com/DSOJilt.png)
