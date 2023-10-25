@@ -2,6 +2,7 @@
 tags:
   - scouting
   - strategy
+  - blog
 ---
 # 1678 Scouting and Strategy Process
 

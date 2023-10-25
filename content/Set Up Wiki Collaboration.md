@@ -20,8 +20,11 @@
  ![[Commit Git Desktop.png]] 
    
 4. Push to origin to update the site.
-   
+ 
+  
  ![[Push to Origin Git Desktop.png]]
+ 
+ 
 5. The website will automatically refresh after a few minutes with your changes!
 # Obsidian Configuration
 

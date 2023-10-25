@@ -1,6 +1,8 @@
 ---
 aliases:
   - scouting
+tags:
+  - scouting
 ---
 
 # Useful Websites
