@@ -56,7 +56,124 @@ Triple Backticks creates a code block
 code goes here
 ```
 
+Strikethru is `~~` ~~like so~~ 
+
+Highlight is `==` ==Highlighted text== 
+
+Comments look like %%Comment%%
+
+Embed a video `![](https://www.youtube.com/watch?v=NnTvZWp5Q7o)`
+![](https://www.youtube.com/watch?v=NnTvZWp5Q7o)
+
+Embed a tweet `![](https://twitter.com/obsdmd/status/1580548874246443010)`
+
+![](https://twitter.com/obsdmd/status/1580548874246443010)
+
 Doing `---` will create a dividing line like this
+
+
+
+---
+### Callouts
+
+```
+> [!info] This is an info callout
+> Text Here
+```
+
+> [!info] This is an info callout
+> Text Here
+
+```
+> [!note] This is an note callout
+> Text Here
+```
+
+> [!note] This is an note callout
+> Text Here
+
+```
+> [!abstract] This is an abstract callout
+> Text here
+```
+
+> [!abstract] This is an abstract callout
+> Text here
+
+```
+> [!error] This is an error callout
+> Text here
+```
+
+> [!error] This is an error callout
+> Text here
+
+```
+> [!todo] This is an todo callout
+> Text here
+```
+
+> [!todo] This is an todo callout
+> Text here
+
+```
+> [!tip] This is an tip callout
+> Text here
+```
+
+> [!tip] This is an tip callout
+> Text here
+
+```
+> [!success] This is an success callout
+> Text here
+```
+
+> [!success] This is an success callout
+> Text here
+
+```
+> [!question] This is an question callout
+> Text here
+```
+
+> [!question] This is an question callout
+> Text here
+
+```
+> [!failure] This is an failure callout
+> Text here
+```
+
+> [!failure] This is an failure callout
+> Text here
+
+```
+> [!bug] This is an bug callout
+> Text here
+```
+
+> [!bug] This is an bug callout
+> Text here
+
+```
+> [!example] This is an example callout
+> Text here
+```
+
+> [!example] This is an example callout
+> Text here
+
+
+```
+> [!quote] This is an quote callout
+> Text here
+```
+
+> [!quote] This is an quote callout
+> Text here
+
+
 
 ---
 ## YAML and Frontmatter
