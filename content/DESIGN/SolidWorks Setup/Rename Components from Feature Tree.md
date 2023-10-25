@@ -7,3 +7,5 @@ Go to: \[Settings -> System Options -> FeatureManager] then check "Allow compone
 ![[Pasted image 20231014002727.png]]
 
 Now, you can right click on the component's name in the feature tree to rename components. Not only do you no longer have to close SolidWorks to rename a file, SolidWorks will automatically update all references so your assemblies stay happy (and when assemblies are happy, everyone's happy). 
+
+Tags: #Solidworks #CAD 

@@ -14,3 +14,5 @@ The first step to getting weldments set up is to download the [[4476 Parts Libra
 ![[Pasted image 20231014124544.png]]![[Pasted image 20231014124737.png]]
 
 You're ready to use Weldments! When using weldments, you'll mainly be using the profiles in \[Weldment Sketches -> 4476 Custom -> Aluminum Box Extrusion], but feel free to check out the hex shaft profiles and 8020 profiles that may come in handy for offseason projects.
+
+Tags: #Solidworks #CAD 
