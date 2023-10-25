@@ -12,6 +12,7 @@
 
 ![[Pasted image 20231016191514.png]]
 
+![](https://www.youtube.com/watch?v=s0Fi8_uk9es)
 ## Mechanical Design
 
 ### Drive Train

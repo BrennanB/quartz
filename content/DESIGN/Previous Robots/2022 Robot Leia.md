@@ -11,6 +11,8 @@
 # The Robot
 
 ![2022 Leia](https://i.imgur.com/FHnJAtYh.jpg)
+
+![](https://www.youtube.com/watch?v=iTIU9P9rk2M)
 ## Mechanical Design
 
 ### Drive Train
