@@ -22,3 +22,6 @@ There are several common types of mechanisms, outlined below.
 ## Four Bar
 
 ## Virtual Four Bar
+
+
+[[Choo Choo Mechanism]]
