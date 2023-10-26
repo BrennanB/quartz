@@ -12,9 +12,9 @@ tags:
 - Fork balance is cool
 	- Merged with their arm so its all one mechanism
 - Pivoting elevator
-  
-- 
-  # Behind The Bumpers
+
+# Behind The Bumpers
+
 - Thoughts from their [Behind the Bumpers](https://www.youtube.com/watch?v=r6JDy85dax8) Segment.
 - [[Intake]] picks up both game pieces at same heights, reduces complexity with [[Software]]/driving
 - [[Shim Tape]] to reduce backlash
