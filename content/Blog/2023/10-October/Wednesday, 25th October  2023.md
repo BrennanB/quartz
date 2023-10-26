@@ -12,4 +12,8 @@ We do a lot of the same things, but one thing that stood out to me is [[Slack]] 
 
 Also I think that their method of [pairwise comparisons](https://www.youtube.com/watch?v=R1m3WJ6P8H8) should be looked into more
 
+# Pit Training
+
+Need to train people for STEMly, can go over [[Pit Crew Philosophy]]
+
 Brennan
