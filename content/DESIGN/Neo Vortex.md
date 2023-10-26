@@ -1,5 +1,17 @@
-The Neo Vortex is
+---
+aliases:
+  - vortex
+---
 
-New motor made by [[REV]] many details haven't been made about it
+The Neo Vortex is a new [[Brushless Motors|brushless motor]] made by [[REV]] released for the 2023-24 [[FRC]] season. The primary feature of the Vortex motor is the removable and replaceable output shaft.
 
-Has a removable shaft and a replaceable [[Motor Controller]] which is nice for repairability. 
+Available output shafts include:
+- MAXSWERVE [[Keyed Shaft]]
+- 20DP 7Tooth Gear with 8T [[Center to Center Distance]]
+- [[Falcon 500]] compatible
+- 8mm [[Keyed Shaft]]
+- [[MAXPlanetary]] input kit
+
+These motors are the first to use the replaceable [[Spark Flex]] [[Motor Controller]], which is nice for reparability. 
+
+Details are still coming out, including specifications on encoder resolution.
