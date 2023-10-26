@@ -12,7 +12,7 @@ Stuff that's hosted on the site:
 - #blog like notes documenting our team's process, thoughts, for later review and learning what worked and what didn't.
 - [[Competition Roles]] documentation, as well as how we actually execute each role, what we care about
 - [[Previous 4476 Robots]] and learnings from old robots that are easily referenceable so we can learn from past mistakes and successes
-- [[FRC Season Reviews]] for detailed looks at an [[FRC]] season as a whole, what strategies, robots, and mechanisms were dominant and why.
+- [[FRC Season Reviews]] for detailed looks at an [[FRC]] season as a whole, what strategies, robots, and [[Mechanism|mechanisms]] were dominant and why.
 ## New notes/pages vs tags
 ### Tags for general concepts
 

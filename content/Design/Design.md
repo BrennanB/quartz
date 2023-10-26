@@ -1,3 +1,8 @@
+---
+aliases:
+  - design
+---
+
 Welcome to the design section!
 
 # Things to Learn

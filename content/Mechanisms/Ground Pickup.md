@@ -9,6 +9,6 @@ Ground pickups are very important to consider having for your robot, but not alw
 
 # Cons
 
-- Usually an additional mechanism
+- Usually an additional [[mechanism]]
 - More complexity
 - More weight

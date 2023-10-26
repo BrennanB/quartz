@@ -1,3 +1,11 @@
+---
+aliases:
+  - motor
+  - motors
+  - Motor
+---
+
+
 Fun fact: Motors move things!
 
 # Choosing Motors

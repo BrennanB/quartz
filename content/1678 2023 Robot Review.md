@@ -10,7 +10,7 @@ tags:
 
 - More reliable single motion of arm that is reliable
 - Fork balance is cool
-	- Merged with their arm so its all one mechanism
+	- Merged with their arm so its all one [[mechanism]]
 - Pivoting elevator
 
 # Behind The Bumpers
@@ -67,7 +67,7 @@ Arm Tensioner, bolts go into block, tightening tightens the whole chain.
 
 ![](https://i.imgur.com/D8RktFO.png)
 
-# Intake
+# [[Intake]]
 
 ![](https://i.imgur.com/CDalibF.png)
 

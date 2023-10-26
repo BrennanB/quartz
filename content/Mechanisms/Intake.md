@@ -9,7 +9,7 @@ Intakes are a subsystem on pretty much every robot where the purpose of the subs
 
 ## General Intake Design Guidelines
 
-- Try to use rollers/wheels over pinching/grasping mechanisms. Rollers almost always are more forgiving for alignment to pick up a game piece.
+- Try to use rollers/wheels over pinching/grasping [[Mechanism|mechanisms]]. Rollers almost always are more forgiving for alignment to pick up a game piece.
 ### Choosing an Intake Ratio
 
 - Surface speed of roller at least 2 * robot max speed
@@ -28,14 +28,14 @@ Intakes are a subsystem on pretty much every robot where the purpose of the subs
 - Don't have too much normal force because it increases resistance/drag which can slow system down and make it drawing more power, this is why maximizing grippiness through material selection is optimal
 ### Intake Size
 
-- Maximize intake area to simplify driver/autonomous skill required
+- Maximize intake area to simplify [[driver]]/[[autonomous]] skill required
 	- Ideally intake is as wide as entire robot, which usually means its better to pull object over bumper and then center/serialize inside robot
 	- Also means intake has to deploy outside bumper perimeter which leads to point building robust intakes
 ### Build Robust Intakes
 
 - Build robust intakes
 	- Use 1/4" [[Polycarbonate]] plates for good mix of stiffness and toughness (bend then spring back without cracking)
-	- Big plates with plenty of material around holes. Ideally small holes, that's why the dead axle roller design is so good, you only have a bolt hole in the plate
+	- Big plates with plenty of material around holes. Ideally small holes, that's why the dead axle roller [[design]] is so good, you only have a bolt hole in the plate
 	- Have spares and design-for and practice quickly repairing
 	- Use [[Sensors]]
 		- Hall effect sensors to zero motor driven deploy

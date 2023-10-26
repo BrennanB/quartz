@@ -17,6 +17,6 @@ At this point, CacheCAD is fully installed! However, you need to set up the proj
 4. A window will appear saying a folder is being created, click "OK"
 5. Once CacheCAD finishes loading the project, click on "Download Changes" then "Download Changes" again. It will take a while to download big projects like our parts library (patience!!!)
 
-Start by creating a project for the [[4476 Parts Library]] and for the specific FRC robot for the corresponding season. You may need to create new CacheCAD projects for any other CAD tasks you are involved in.
+Start by creating a project for the [[4476 Parts Library]] and for the specific [[FRC]] robot for the corresponding season. You may need to create new CacheCAD projects for any other CAD tasks you are involved in.
 
 Tags: #CacheCAD #CAD 
