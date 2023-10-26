@@ -25,4 +25,5 @@ A [Chief Post](https://www.chiefdelphi.com/t/introducing-the-nifty-bot-breaker-s
 # [[Design Reviews]]
 
 Reviewed [[1678 2023 Robot Review]], which the notes from that can be found there.
+
 Brennan

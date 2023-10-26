@@ -13,12 +13,17 @@
 - Meme video from 2018
 
 # The Robot
-![](https://www.youtube.com/watch?v=gHhQ5Sa3Saw)
 
-
+![](https://i.imgur.com/8mSHlEkh.jpg)
 ## Mechanical Design
 
 ### Drive Train
+
+This was our first year of using a [[West Coast Drive]] style of drive train. It allowed us to have a lot more access to the wheels on the robot to be able to do quicker maintenance with any issues there were.
+
+This was also our first robot to not have a dropped center wheel. We still opted for 6wd, but no drop center to reduce instability when the arm was all the way up. To allow us to turn we used [[Omni Wheels]] on the outer corners of the robot.
+
+Originally the robot had the drive gearbox on the center wheel of the gearbox, however we moved it to the front of the robot to counterbalance the arm on the back of the robot to make the robot more stable while driving and moving the arm. After we did this move, the motors on the gearbox sort of became a hard stop for the intake when the arm came down, and after repeated use the gearboxes on the drive slightly bent from this collision. It never seemed to drastically effect the performance of the drive, but surely it didn't help.
 
 ### Intake
 
