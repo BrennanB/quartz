@@ -1,4 +1,8 @@
-Spline shafts are shafts that have a starlike shape that interface with motor hardware easier than other options like [[keyed shaft]].
+---
+aliases:
+  - spline shaft
+---
+Spline shafts are shafts that have a starlike shape that interface with motor hardware easier than other options like [[Keyed Shaft|keyed shaft]].
 
 [[Motors]] that support Spline shaft are [[Kraken X60]] [[Neo Vortex]] and the [[Falcon 500]]
 

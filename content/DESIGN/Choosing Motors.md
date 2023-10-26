@@ -17,7 +17,7 @@ This is our primary go-to motor. Great for any high load situation (eg. [[Drive 
 
 ## [[Neo Vortex]]
 
-A good alternative to the Kraken X60. Useful for it's smaller profile for when you really need the extra space. The output shaft is also interchangeable, so some applications where we need some non-spline output shaft ([[spline shaft]]) this is also a great motor to use.
+A good alternative to the Kraken X60. Useful for it's smaller profile for when you really need the extra space. The output shaft is also interchangeable, so some applications where we need some non-spline output shaft ([[Spline Shaft]]) this is also a great motor to use.
 
 ## [[Neo 550]]
 

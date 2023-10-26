@@ -1,6 +1,6 @@
 You can speed up your CAD a lot by customizing SolidWorks to match what you're used to, or by making some commonly used commands quick to use by assigning them to keybinds/mouse gestures. **However, note that you should still know where all commands are by default because our computer will not have these customized.** With that being said, here's how to customize your shortcuts.
 
-**Mouse Gestures**
+## Mouse Gestures
 When right clicking and dragging in any direction, a segmented donut pops up with different tools/shortcuts you can use. You can choose which tools and how many tools pop up in your mouse gestures menu. I recommend including the Select tool under Electrical Tables (not under Sketch Tools) so you can quickly exit any tools you may have accidentally enabled. 
 
 To change your mouse gestures:
@@ -14,7 +14,7 @@ To change your mouse gestures:
 ![](https://lh3.googleusercontent.com/R-fgn_oiiFyiRuCyeIqRo0TLfIfuo-9RSFMSieE3RUR3vIlcGZEB0fZ58OztACRZilPxZGPoCHA229QsAyxXIyehE961eUOl-1hdP0J0UpqRahg8iO-A7rLBPF7gfq0AJArmWabYJj7AhExKZBc8GTI)
 
 
-**Keyboard Shortcuts**
+## Keyboard Shortcuts
 Additionally, you can add keyboard shortcuts to achieve a similar effect to the mouse gestures. There are quite a few on default, but I’ve personally set “D” to smart dimension, "Ctrl+Shift+S" to Save As, and “V” to normal to (If a flat plane/face is selected, view will align itself to that face. If none selected, view will snap to nearest face. Highly recommend adding this as a keyboard shortcut or mouse gesture for quick view manipulation)
 
 To change your keyboard shortcuts:
@@ -24,3 +24,5 @@ To change your keyboard shortcuts:
 4. Click OK
 
 ![[Pasted image 20231014131201.png]]
+
+Tags: #Solidworks #CAD 

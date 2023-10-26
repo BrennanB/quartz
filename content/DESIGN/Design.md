@@ -3,7 +3,7 @@ Welcome to the design section!
 # Things to Learn
 
 - [[Design Process]]
-- [[Mechanism]]s
+- [[Mechanism]]
 - [[Choosing Motors]]
 - [[Choosing Ratios]]
 - [[Choosing Materials]]

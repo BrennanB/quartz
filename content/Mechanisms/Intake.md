@@ -1,5 +1,10 @@
-# Intakes
-
+---
+aliases:
+  - robot intake
+  - intake
+  - intakes
+  - Intakes
+---
 Intakes are a subsystem on pretty much every robot where the purpose of the subsystem is to acquire game pieces and store them in the robot. Since intakes have such a broad definition, there are a large amount of different types of intakes.
 
 ## General Intake Design Guidelines
@@ -36,20 +41,3 @@ Intakes are a subsystem on pretty much every robot where the purpose of the subs
 		- Hall effect sensors to zero motor driven deploy
 		- Beam-break sensor (ex. retro reflective laser) to know that object is in robot and automatically trigger intake to stow, elevator to move, etc
 		- Color sensor to detect multicolored game objects (ex. 2022 balls)
-
-# Indexers
-
-# Shooters
-
-# Turret
-
-# Elevators
-
-# Arms
-
-# Telescoping Tubes
-
-# Linkages
-## Four Bar
-
-## Virtual Four Bar

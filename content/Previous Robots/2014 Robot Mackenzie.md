@@ -22,7 +22,7 @@ The robot was named after Mackenzie who was a family friend of one of the famili
 ![[Pasted image 20231016184506.png]]
 
 
-The robot was heavily inspired by the [Ri3D team Oryon Labs Robot](https://youtu.be/LSXEHBHmIn0?si=3Gu8ECMJ56mddALE) in overall structure, though much of the actual robot was modified adding other concepts in. Our robot featured a motorized single joint for pivoting the arm up and down, a [[choo choo mechanism]] [[Shooter]]. Top rollers and guides to center the yoga ball, and pneumatic arm to add or remove contact with the ball and the top roller during pick up or shooting phases.
+The robot was heavily inspired by the [Ri3D team Oryon Labs Robot](https://youtu.be/LSXEHBHmIn0?si=3Gu8ECMJ56mddALE) in overall structure, though much of the actual robot was modified adding other concepts in. Our robot featured a motorized single joint for pivoting the arm up and down, a [[Choo Choo Mechanism]] [[Shooter]]. Top rollers and guides to center the yoga ball, and pneumatic arm to add or remove contact with the ball and the top roller during pick up or shooting phases.
 ## Mechanical Design
 
 ### Drive Train

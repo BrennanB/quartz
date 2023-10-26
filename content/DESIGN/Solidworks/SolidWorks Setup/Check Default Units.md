@@ -11,3 +11,5 @@ To change your part's default units:
 ![[Pasted image 20231014000128.png]]
 
 Now, when you create a new part, it should go straight to IPS units. Repeat the above steps for assemblies by creating a new blank assembly, changing your units, and saving it as "Assembly.asmdot" in the same templates folder.
+
+Tags: #Solidworks #CAD 
