@@ -5,11 +5,13 @@ One thought I had was to implement a better systems check any time the robot has
 Also a good reminder to go over what the lights mean for any assorted [[Motor Controller]] (and honestly, things like the [[Roborio]] and [[PDH]] as well).
 
 [WPILib documentation for lights](https://docs.wpilib.org/en/stable/docs/hardware/hardware-basics/status-lights-ref.html)
-[Spark Max Lights and What They Mean](https://docs.revrobotics.com/sparkmax/status-led)
+[Spark Max Lights and What They Mean With Fun Animations](https://docs.revrobotics.com/sparkmax/status-led)
 
 Hopefully we got them up and running - looks like some issues with the ribbon cable on the [[NEO Brushless V1.1]] motor that they had been using (which is an annoying but common issue with the first gen of the [[REV]] products). 
 
 Another design choice they had made was an [[Elevator]] with a [[Shifting Gearbox]]. The [[Pneumatics]] had seemingly fired so it was stuck in second gear, which was partially contributing to their elevator issues? Not something I think we would often have a use for, but some 2018 robots used shifting gearboxes on their arm to activate 'climbing mode'. 
+
+Also a reminder to keep git up to date if for no other reason than version control. I'm still learning how to use it and am on the struggle bus sometimes but it is useful.
 
 -Taegen
 
