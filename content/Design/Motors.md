@@ -23,4 +23,3 @@ There are several [[FRC]] legal brushed motors. The most common are:
 - [[775 Pro]] 
 - [[Redline]]
 
-People will often joke about using #SnowblowerMotors or #WindowMotors. These are a real thing! They're incredibly underpowered, slow, and should never go on an FRC robot.

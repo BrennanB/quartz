@@ -18,9 +18,10 @@ Brushed Motor Controllers:
 - [[Talon]]
 - [[Victor 884]]
 - [[Victor 888]]
-#DMC
-#Jaguar
-#NidecDynamo
-#SD540
-#VictorSP
+- [[DMC]]
+- [[Jaguar]]
+- [[Nidec Dynamo]]
+- [[SD540]]
+- [[VictorSP]]
+
 
