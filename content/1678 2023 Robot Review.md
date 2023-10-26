@@ -13,13 +13,15 @@ tags:
 	- Merged with their arm so its all one mechanism
 - Pivoting elevator
   
+- 
   # Behind The Bumpers
 - Thoughts from their [Behind the Bumpers](https://www.youtube.com/watch?v=r6JDy85dax8) Segment.
 - [[Intake]] picks up both game pieces at same heights, reduces complexity with [[Software]]/driving
 - [[Shim Tape]] to reduce backlash
 - Reduces weight that needs to rotate because the weight is past the pivot point, so they only need to lift their [[Drive Train]]
 - No separate cone/cube mode, makes it simpler
-- Yoshi setpoint? Dunno what that is for.
+- Yoshi setpoint? (set for scoring in auto)
+
 
 # CAD Exploration
 
@@ -72,6 +74,7 @@ Arm Tensioner, bolts go into block, tightening tightens the whole chain.
 - Lighter than a full shaft across
 
 ![](https://i.imgur.com/SYVPWSh.png)
+
 Rigid metal part to maintain [[Center to Center Distance]]
 
 [[3D Printing|3D printed]] plugs to flush mount tube extrusion
