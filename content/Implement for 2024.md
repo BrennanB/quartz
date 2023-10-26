@@ -3,7 +3,7 @@
 
 - New recruitment video
 - Increasing positive reinforcement
-- More social activities, especially in the off-season ([[Season Timeline]])
+- More social activities, especially in the off-season ([[Season Timeline])
 	- Game nights, escape rooms, dinners, etc.
 
 # [[Pit]] Area
