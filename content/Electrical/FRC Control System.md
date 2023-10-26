@@ -1,4 +1,4 @@
-By the [[Game Manual]], every FRC robot must have the same control system. This is the core of the operation of every robot. There are many components such as Batteries, #RoboRio, wiring and much more. There are various vendors for different components of the control system. 
+By the [[Game Manual]], every FRC robot must have the same control system. This is the core of the operation of every robot. There are many components such as Batteries, [[Roborio]] , wiring and much more. There are various vendors for different components of the control system. 
 
 ## Components
 [[Roborio]] : The central computer of the robot. The [[Roborio]] is the only allowed robot controller for [[FRC]] robots. It is made by National Instruments .This is where the code will be downloaded and ran. It will take all the inputs from robot and [[Driver]]/[[Operator]] and calculate the outputs. It has many connections as listed here: USB, Ethernet, Digital Input/Output, Analog Input/Output, [[Radio Signal Light]], [[PWM]], SPI, USB-B, I2C, RS-232, SPI and [[CAN]].

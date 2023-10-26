@@ -1,4 +1,9 @@
-# 3d printing purchasing for next year?
+---
+tags:
+  - 3Dprinting
+  - purchasing
+---
+# [[3d printing]] purchasing for next year?
 
 Past few years we have been dialing up our use of printed parts but relying on people with printers at home - possibly time to make the investment to get at least one 'team' printer.
 
@@ -16,7 +21,7 @@ Main contenders are [Bambu X1](https://ca.store.bambulab.com/products/x1-carbon-
 No decision was made, will look at things again and discuss with more team members.
 
 Quick update: input shaping has been fully released for MK4 which should help with speed
-# Integrating 3d printing into swerve wheels
+# Integrating [[3d printing]] into swerve wheels
 
 Some teams have been looking at using ~95A TPU to print their swerve wheels using [[3D Printing]].
 Lots of discussing on CD about it [here](https://www.chiefdelphi.com/t/tpu90a-grippy-tire-cad-published-finally/438075)
@@ -25,6 +30,6 @@ Team 88 has been using [[Selective Laser Sintering]] to make their swerve wheels
 
 Other teams have been starting to use the more common [[Fused Deposition Modelling]] technique, which is what we have easy access to based on the printers that team members have. 
 
-Still have some reservations about delamination occurring as part of the layering from FDM modelling, as well as the resources that would need to be invested into getting this dialed in. Will keep an eye on the thread and maybe investigate again later (possibly starting with things like sushi rollers for an intake just to get practice printing with a more flexible filament)
+Still have some reservations about delamination occurring as part of the layering from FDM modelling, as well as the resources that would need to be invested into getting this dialed in. Will keep an eye on the thread and maybe investigate again later (possibly starting with things like sushi rollers for an [[intake]] just to get practice printing with a more flexible filament)
 
 Taegen

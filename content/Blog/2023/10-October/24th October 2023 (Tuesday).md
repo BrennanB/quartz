@@ -1,3 +1,9 @@
+---
+tags:
+  - elevator
+  - assistingteams
+  - debuging
+---
 Had a call with team 5719 trying to help them out with their assorted robot issues prior to STEMley! Always a good experience to help out other teams and gives us the chance to learn something from other teams systems.
 
 One thought I had was to implement a better systems check any time the robot has gone through transport. Generally we do give the robot a look-over, but journeys in the trailer can always cause some things to come unplugged in ways that others haven't.

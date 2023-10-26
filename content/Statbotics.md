@@ -1,7 +1,7 @@
-Statbotics uses the [[FIRSIT API]] to calculate statistics for FRC teams/matches. 
+Statbotics uses the [[FIRSIT API]] to calculate statistics for [[FRC]] teams/matches. 
 
 ## Features
-Match Predictions
+[[Match]] Predictions
 Team Rankings
 Event Predictions
 EPA

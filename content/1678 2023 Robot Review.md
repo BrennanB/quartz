@@ -10,7 +10,7 @@ tags:
 
 - More reliable single motion of arm that is reliable
 - Fork balance is cool
-	- Merged with their arm so its all one mechanism
+	- Merged with their arm so its all one [[mechanism]]
 - Pivoting elevator
 
 # Behind The Bumpers
@@ -50,7 +50,8 @@ Additional plate for support of the sidewall for the pivoting, then you don't da
 
 - Continuous elevator rigging for less ropes
 - Better CG with continuous because not all stages move at the same time.
-- [[Tube Caps]] in end of [[Elevator]]
+- [[Tube Plugs]] in end of [[Elevator]]
+  
 ![](https://i.imgur.com/i0UVkxL.png)
 
 Bottom plate increased range of motion and lighter than normal 2x1 extrusion?
@@ -66,7 +67,7 @@ Arm Tensioner, bolts go into block, tightening tightens the whole chain.
 
 ![](https://i.imgur.com/D8RktFO.png)
 
-# Intake
+# [[Intake]]
 
 ![](https://i.imgur.com/CDalibF.png)
 

@@ -16,4 +16,13 @@ Also I think that their method of [pairwise comparisons](https://www.youtube.com
 
 Need to train people for STEMly, can go over [[Pit Crew Philosophy]]
 
+# 3D Printed Power Guard
+
+A [Chief Post](https://www.chiefdelphi.com/t/introducing-the-nifty-bot-breaker-shroud/442964) had a sample 3d printed guard for the power switch that we will try out.
+
+![](https://www.chiefdelphi.com/uploads/default/optimized/3X/c/5/c5f2ceb0e4deeba65d0bdda5d32ef7026f1ac367_2_666x500.jpeg)
+
+# [[Design Reviews]]
+
+Reviewed [[1678 2023 Robot Review]], which the notes from that can be found there.
 Brennan

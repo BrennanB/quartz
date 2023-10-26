@@ -1,4 +1,4 @@
-There are some commands that we find super useful that SolidWorks doesn't make very accessible by default. To move them to the floating toolbar:
+There are some commands that we find super useful that [[SolidWorks]] doesn't make very accessible by default. To move them to the floating toolbar:
 
 1. Click the dropdown next to the settings icon and click "Customize"
 2. Find the Commands tab and search for the tool you want to make accessible

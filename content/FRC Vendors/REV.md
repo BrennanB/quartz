@@ -8,9 +8,9 @@ They also make [[Motors]] for both those programs, including [[Neo Vortex]], [[N
 - [[Neo 550]]
 - [[Spark Max]]
 - [[Spark Flex]]
-- Power Distribution Hub #PDH
-- Mini Power Module #MPM
-- Radio Power Module #rpm
+- Power Distribution Hub [[PDH]]
+- Mini Power Module 
+- Radio Power Module 
 - Pneumatic Hub
 - [[Blinkin]]
 - [[Through Bore Encoder]]

@@ -1,4 +1,4 @@
-You can design complex structures made out of aluminum box extrusion, but the result is often a complex assembly that's time consuming to make and hard to adjust. What you may want to use instead are weldments.
+You can [[design]] complex structures made out of aluminum box extrusion, but the result is often a complex assembly that's time consuming to make and hard to adjust. What you may want to use instead are weldments.
 
 ![[Pasted image 20231014125600.png]]
 
