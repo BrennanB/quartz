@@ -38,6 +38,6 @@ Intakes are a subsystem on pretty much every robot where the purpose of the subs
 	- Big plates with plenty of material around holes. Ideally small holes, that's why the dead axle roller [[design]] is so good, you only have a bolt hole in the plate
 	- Have spares and design-for and practice quickly repairing
 	- Use [[Sensors]]
-		- Hall effect sensors to zero motor driven deploy
+		- [[Hall Effect Sensors|Hall effect]] sensors to zero motor driven deploy
 		- Beam-break sensor (ex. retro reflective laser) to know that object is in robot and automatically trigger intake to stow, elevator to move, etc
 		- Color sensor to detect multicolored game objects (ex. 2022 balls)

@@ -18,7 +18,7 @@ Just wanted to document a couple cool things 254 did in 2023 that may apply to u
 ![](https://i.imgur.com/va27B9c.png)
 
 
-Very cool cutout into the [[Polycarbonate]] which was a light weight smart way to power the cube [[intake]] in and out. It's made out of two milled out pieces of 1/4" polycarb plates at 10DP. Not sure we could mill the same thing, but we could do a three stack of polycarb instead potentially. Then it's powered by one internal shaft going across the whole length of the robot to power both sides
+Very cool cutout into the [[Polycarbonate]] which was a light weight smart way to power the cube [[Intake|intake]] in and out. It's made out of two milled out pieces of 1/4" polycarb plates at 10DP. Not sure we could mill the same thing, but we could do a three stack of polycarb instead potentially. Then it's powered by one internal shaft going across the whole length of the robot to power both sides
 
 ## Printed Pulleys
 

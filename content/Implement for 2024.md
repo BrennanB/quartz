@@ -3,7 +3,7 @@
 
 - New recruitment video
 - Increasing positive reinforcement
-- More social activities, especially in the off-season ([[Season Timeline])
+- More social activities, especially in the off-season ([[Season Timeline]])
 	- Game nights, escape rooms, dinners, etc.
 
 # [[Pit]] Area
@@ -32,6 +32,7 @@
 
 # [[Drive Team]]
 
+- Record matches from behind the glass
 ## Reducing Stress Levels
 
 1. Doing something fun completely unrelated to robots to disrupt potentially negative thinking
@@ -40,3 +41,7 @@
 
 - Part and [[Assembly]] [[Drawings]]
 - Port over from other document
+
+# Electrical
+
+- [ ] Investigate [[Hall Effect Sensors|hall effect sensor]] wiring with the [[Kraken X60|kraken]]
