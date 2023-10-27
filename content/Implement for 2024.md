@@ -21,7 +21,7 @@
 	- [[Pit Scouting]] to generate flags for each team
 	- Use flags to compare to inputted data to see if data matches flagged ability (ex. team scores high cone, but flags say they can't)
 - Personal [[Pick List]] online
-	- Automatically merge into one pick list for [[Scouting Meeting]]
+	- Automatically merge into one [[pick list]] for [[Scouting Meeting]]
 - Convert all features from current Excel sheet to online
 - New scouting tablets (from summer camp)
 
@@ -42,6 +42,6 @@
 - Part and [[Assembly]] [[Drawings]]
 - Port over from other document
 
-# Electrical
+# [[Electrical]]
 
 - [ ] Investigate [[Hall Effect Sensors|hall effect sensor]] wiring with the [[Kraken X60|kraken]]

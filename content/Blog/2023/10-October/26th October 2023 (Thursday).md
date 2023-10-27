@@ -8,7 +8,6 @@ tags:
   - driveteam
   - strategy
 ---
-
 # 254 2023 Tech Binder Review
 
 Just wanted to document a couple cool things 254 did in 2023 that may apply to us at some point in the future. Some of this is documented in their [tech binder](https://media.team254.com/2023/10/90bc07c6-2023-Tech-Binder-V6.pdf), some in their [Chief Delphi](https://media.team254.com/2023/10/90bc07c6-2023-Tech-Binder-V6.pdf) thread
