@@ -4,7 +4,13 @@ aliases:
 tags:
   - scouting
 ---
+# WAFFLES Scouting
 
+- [[Pick List]]
+- [[Scouting Meeting]]
+- [[Data Validation]]
+- [[Scouting Philosophy]]
+- [[Pit Scouting]]
 # Useful Websites
 
 - [[Statbotics]]
