@@ -36,6 +36,6 @@
 2. Click Daily Notes in the core plugins
    
    ![](https://i.imgur.com/aH9NcQd.png)
-3. Update day format to `YYYY/MM-MMMM/Do MMMM  y (dddd)`, and New File Location to `Blog`
+3. Update day format to `YYYY/MM-MMMM/Do MMMM y (dddd)`, and New File Location to `Blog`
    
    ![](https://i.imgur.com/DSOJilt.png)

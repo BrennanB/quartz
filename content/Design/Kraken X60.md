@@ -1,3 +1,9 @@
+---
+aliases:
+  - kraken
+  - Kraken
+---
+
 The KrakenX60 (aka Kraken) is a brushless motor made by [[West Coast Products]]. Released in October 2023, these are "high-power, high-performance motors" with "a number of features that set it apart from other brushless motors in the FRC market". It is generally seen as a sequel product to the [[Falcon 500]], without the removable shaft and made by a different vendor.
 
 As there is a [[TalonFX]] [[Motor Controller]], the Kraken is compatible with [[PheonixPro]], which is a subscription based service by [[CTRE]] to improve motor performance.

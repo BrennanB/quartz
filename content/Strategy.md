@@ -1,0 +1,6 @@
+---
+aliases:
+  - strategy
+  - strategic
+  - Strategic
+---
