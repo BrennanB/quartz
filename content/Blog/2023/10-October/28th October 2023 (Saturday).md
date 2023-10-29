@@ -25,6 +25,9 @@ Only a week until STEMley! Very exciting, last full day of [[Drive Practice]] to
 
 Today as the bearer of bad news updating the blog from two days back, the [[Kraken X60|kraken]] appears uncapable of doing this. Sadness. I'll upload a picture explaining why later today when I can figure out how the imgur plugin works.
 
+edit: this doesn't exist on the kraken
+![](https://i.imgur.com/lCMQ3gg.png)
+
 -Taegen
 ---
 # Technical Leads Meeting
@@ -102,3 +105,17 @@ is there anything we want to store at BGC? there's shelves and stuff
 - could move some stuff that we don't need access to very regularly (robot graveyard?)
 - some spare materials? scrap material like L brackets, some spare tubing
 - use the space as spare space to work if needed
+
+# Drive Practice
+
+We had the aforementioned [[Drive Practice]] session! We had some good hours of running but some unfortunate [[Software|software]] issues had us stuck for the first two hours and 41 minutes.
+
+We accidentally deployed an incomplete version of code to the robot as we had tried to update to Phoenix V6 a few weeks back and that took more work than we thought it would (so still on the todo list for 2024). The calibration for the arm was off as a result which was giving some really weird readout values - fixed that by going through constants.java and setting the shoulder left/right calibration variables to what was seen in [[WPILib]] [[Shuffleboard]].
+
+At some point, one of the bolts mounting the intake gearbox came undone and the whole gearbox tilted down into the [[Polycarbonate|polycarb]] belts. Friction energy dissipates as heat so the [[Anderson PowerPole]]s on the motor needed to be replaced...
+
+![](https://i.imgur.com/KkPZGsP.png)
+
+Melting plastic aside, the practice seemed to go well. Sebi and Finlay are our [[Driver]] and [[Operator]] for STEMley, and Sylvan got in some good [[Human Player]] practice as well. Good luck to our 3/5ths new [[Drive Team]] at the event (new [[Technician]] too, go Kenneth!)!
+
+-Taegen
