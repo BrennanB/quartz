@@ -119,3 +119,9 @@ At some point, one of the bolts mounting the intake gearbox came undone and the 
 Melting plastic aside, the practice seemed to go well. Sebi and Finlay are our [[Driver]] and [[Operator]] for STEMley, and Sylvan got in some good [[Human Player]] practice as well. Good luck to our 3/5ths new [[Drive Team]] at the event (new [[Technician]] too, go Kenneth!)!
 
 -Taegen
+
+# MK4I assembly with Krakens
+
+As part of the cooling system built into the [[Kraken X60|kraken]], the cooling screw will have to be removed and covered with a piece of tape as per [this post](https://www.chiefdelphi.com/t/announcing-kraken-x60-powered-by-talon-fx/442236/413?u=tmpoles)
+
+-taegen
