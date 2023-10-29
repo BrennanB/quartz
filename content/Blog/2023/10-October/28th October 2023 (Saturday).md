@@ -3,6 +3,7 @@ tags:
   - blog
   - CAD
   - elevator
+  - buildseason
 ---
 # 254 Elevator Kickstand
 
