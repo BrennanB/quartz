@@ -2,6 +2,8 @@
 aliases:
   - falcon
   - Falcon
+  - falcons
+  - Falcons
 ---
 The Falcon500 (aka Falcons) is a brushless motor made by VEX, with an integrated [[TalonFX]] [[Motor Controller]]. It came out in 2020 with the intent to "give teams previously unheard of amounts of power and efficiency", and "reduces size, weight, and common failure points of other motors in the market." The [[Spline Shaft]] was the first of its kind to be produced for FRC purposes.
 
