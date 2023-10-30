@@ -8,7 +8,7 @@ Every year since 2014, we have named our robot after a different person in need 
 
 | Image | Link                       | Accomplishments |
 | ----- | -------------------------- | --------------- |
-|   ![[Pasted image 20231015202813.png\|150]]    | [[2013 Robot Aunt Jemima]] |                 |
+|   ![[Pasted image 20231015202813.png\|150]]    | [[2013 Robot Aunt Jemima]] |  Semi-finalist at GTRE               |
 |   ![[Pasted image 20231016184506.png\|150]]    | [[2014 Robot Mackenzie]]   |                 |
 |  ![[Pasted image 20231016190138.png\|150]]     | [[2015 Robot Kevin]]       |                 |
 |    ![2016 Robot\|150](https://i.imgur.com/VI3SaYC.jpeg)   | [[2016 Robot Aaryan]]      |                 |
@@ -17,6 +17,6 @@ Every year since 2014, we have named our robot after a different person in need 
 |    ![2018 Robot\|150](https://i.imgur.com/8mSHlEkh.jpg)   | [[2018 Robot Mélia]]       |                 |
 |    ![[Pasted image 20231016191514.png\|150]]   | [[2019 Robot Charlie]]     |                 |
 |    ![Tanner 2020\|150](https://i.imgur.com/S4GuVV4h.jpg)   | [[2020 Robot Tanner]]      |                 |
-|   ![2022 Leia\|150](https://i.imgur.com/FHnJAtYh.jpg)    | [[2022 Robot Leia]]        |                 |
+|   ![2022 Leia\|150](https://i.imgur.com/FHnJAtYh.jpg)    | [[2022 Robot Leia]]        |                   |
 |     ![2023 Misha and Zoey\|150](https://i.imgur.com/VcSy7ubh.jpg)  | [[2023 Robot Misha and Zoey]]                           |                 |
 
