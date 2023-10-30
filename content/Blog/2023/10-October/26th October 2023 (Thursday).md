@@ -36,7 +36,7 @@ Interesting that they had teeth fail with solid fill, and then had shear pins su
 – The elevator starts midway up with a little kickstand for faster initial auton placement, but its Hall is still at the bottom of travel so only is triggered in a floor cone pickup pose or if we lose our encoder position and want to rezero  
 – Forks carriage triggers a hall when all the way climbed, to tell the motor to stop pulling
 
-Wiring [[hall effect sensors]] directly to a [[Falcon 500|falcon]] wasn't something I was even aware of. This seems like a nice way to do it, and I assume the [[Kraken X60|kraken]] is also capable of doing this, but we should check!
+Wiring [[Hall Effect Sensors]] directly to a [[Falcon 500|falcon]] wasn't something I was even aware of. This seems like a nice way to do it, and I assume the [[Kraken X60|kraken]] is also capable of doing this, but we should check!
 
 Big fan of hall effects for zeroing things because there is no contact. Lets use them in 2024!
 
