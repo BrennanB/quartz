@@ -27,9 +27,8 @@ Today as the bearer of bad news updating the blog from two days back, the [[Krak
 
 edit: this doesn't exist on the kraken
 ![](https://i.imgur.com/lCMQ3gg.png)
-
 -Taegen
----
+
 # Technical Leads Meeting
 
 ### New Workspace at [[Kingston Robotics Lab]]!
