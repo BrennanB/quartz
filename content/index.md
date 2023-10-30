@@ -23,6 +23,7 @@ This site is still very much a work in progress and formatting is constantly cha
 
 - [[Previous 4476 Robots]]
 - [[Design Reviews]]
+- #blog 
 # Obsidian Stuff
 
 - [[Obsidian Tips]]
