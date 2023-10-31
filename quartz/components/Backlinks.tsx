@@ -8,7 +8,7 @@ function Backlinks({ fileData, allFiles, displayClass }: QuartzComponentProps) {
   return (
     <div class={`backlinks ${displayClass ?? ""}`}>
       <h3>Backlinks</h3>
-      <ul class="overflow">
+      <ul class="scrollable">
         {backlinkFiles.length > 0 ? (
           backlinkFiles.map((f) => (
             <li>
