@@ -188,6 +188,14 @@ You can configure aliases for pages (other names that the page can be linked und
 
 for example the mentor page has a few aliases that when you search using a link will show up. This can help a lot with things that go under the same name but have different capitalization. It also can be used for things that may have multiple reasonable names, for example [[Eliminations|Playoffs]] and [[Eliminations|Eliminations]] both link to the same page.
 
+### Table of Contents
+
+If there is a page you don't want to show the table of contents, you can add `showToc: false` to the frontmatter
+
+### Date
+
+Setting a correct date for a note, you can add a `date` object in the front matter
+
 ### Tags
 
 You can also add a tag attribute to add tags to a page.

@@ -10,7 +10,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     baseUrl: "wiki.wafflesrobotics.com",
-    ignorePatterns: ["**/private", "**/Templates", ".obsidian"],
+    ignorePatterns: ["**/private", "**/Templates", ".obsidian", "**/Pictures"],
     defaultDateType: "modified",
     theme: {
       typography: {
