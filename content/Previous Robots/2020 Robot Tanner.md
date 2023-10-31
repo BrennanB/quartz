@@ -48,7 +48,7 @@ One side of the funnel had a polycord [[belt]] to agitate the balls and push the
 
 **![](https://lh7-us.googleusercontent.com/EmNaPW8II_FEP1XfC0ZJKrua3SIpywaO89koaoWLV5bH5QV4PmeA0YxRKJHUwXzcX9M4LSKUJWVGhrBZTHCOvm4zwyGrfM3IqfHIOl7-F1NYoKDHV3aKk8KNMyVc_JPL4m5i6qIl_XeKxB2TbC3TYA)**
 
-We had issues with balls falling out because there was no [[Polycarbonate|lexan]] top in the actual version, due to weight limitations.  Metal [[pulleys]] were originally used, but were swapped to crown pulleys to avoid damaging the balls.  Extra lexan was added to the [[intake]] to better guide the balls into the funnel and prevent balls from falling out.  The funnel mounting design was not optimal for maintenance, as the lexan blocked access.  The plate on the top side of the polycord [[belt]] would dig into the ball and limit proper contact/indexing.
+We had issues with balls falling out because there was no [[Polycarbonate|lexan]] top in the actual version, due to weight limitations.  Metal [[pulleys]] were originally used, but were swapped to crown pulleys to avoid damaging the balls.  Extra lexan was added to the [[intake]] to better guide the balls into the funnel and prevent balls from falling out.  The funnel mounting [[design]] was not optimal for maintenance, as the lexan blocked access.  The plate on the top side of the polycord [[belt]] would dig into the ball and limit proper contact/indexing.
 
 ![500](https://i.imgur.com/jXgoMAV.jpg)
 
@@ -60,15 +60,36 @@ The conveyor fed the balls indexed by the funnel into the [[shooter]] using poly
 
 The transition from the funnel to the conveyor was not fully planned, and thus there were issues with geometry and dead spots.  The crown [[pulleys]] were not perfectly aligned, causing the polycord [[Belt|belts]] to slip off frequently.  Ball jams frequently occurred in the conveyor.
 ### [[Shooter]]
-gouda
+
+The shooter was powered by 2 neos. The hood was 3d printed pla, and had slots in it to have two positions for a wide range of shooting locations. The hood was powered by a single acting piston, defaulting into the closer range. The shooter also had a [[limelight]] to align to the goal, as well as a general range finding algorithm for either a long range shot from the trench or a closer initiation line shot. The shooter also had an acceleration wheel to help minimize the load on the main flywheel and maintain flywheel fire rate.
+
+The shooter itself was quite rigid and had a reasonable firing rate. Generally it was more accurate than many shooters in the field, and had reasonable inner percentage rate. There was some left/right inaccuracy that we saw due to inconsistent loading of the power cells through the shooter. This was because the actual feed of the shooter had some range left right where the ball could enter the shooter and thus the output saw that same error as well.
+
+For the robot to shoot we would back off the conveyor, kicker, and flywheel to give some gap for the shooter to spin up, then it would have the flywheel spin up. Once the flywheel was within range, the kicker and conveyor would launch the balls.
+
+The shooter also had some jamming issues with the powercells, where either two balls would get stuck compressed together near the feeding wheel, or sometimes the power cell would get stuck in-between the feeding wheel and the flywheel. We never fully determined the cause of this, but we had a few potential ideas.
+
+1. Part of the de-jam code actually jammed it by reversing
+2. The logic for slowly indexing balls in sequence failed, and the powercell bypassed the feeding wheel and made contact with the flywheel that jammed balls in
+3. Some difference in grip between the polycord belting and the wheels causing the ball to get stuck
+
+We also started designing a second revision for the shooter that had a sheet metal hood with rack and pinion adjustability for the hood. The primary goal of this was to be able to shoot from the protected zone right in front of the goal. Our two position hood didn't have the ability to do this as the hood would need to be at a much steeper angle. We never ended up building this however as [[FIRST]] events shut down due to covid.
 ### [[Climber]]
-etch a sketch bc no space
+
+The climber was a combination of two mechanisms; a virtual four bar hook delivery system, with a winch [[mechanism]] to lift the robot. To move the system the winch and the hook deploy had to move in union.
 #### Hook Deploy
-pretty good but still a lil sketch
+
+The hooks were stored on the end of a virtual four bar system to get the height to lift the hooks to the climbing bar. The deployment was powered by a singular [[redline]] motor
 #### [[Winch]]
-ew rope
+
+The winch used rope run off of a spool on either side of the robot. This spool had a very high reduction gearbox on a neo 550. The 550 was chosen specifically because it was the only motor that fit within the space requirements.
+
+Originally the winch had planned pneumatically actuated ratchet wrenches that would prevent back drive. These were removed later because the back drive of the motors thru the gearbox was limited enough that the robot would stay up for long enough.
 ## [[Software]]
-no clue
+
+For aiming the limelight looked at the area of the target in a wide view, and then tried to center the middle of the target to the center of the robot for aiming towards the middle of the goal. The limelight would also automatically switch to a more zoomed in version of targeting if it detected a long range shot (low area target.) Depending on the area that it saw on the targeting, the flywheel rpm would fall into 3 different buckets of range (far shot, mid shot, close shot) This would give the shooter the approximately correct rpm to make shots.
+
+
 ## [[Electrical]]
 is so prettyyyyyyyyyyyyyyyyyy
 ![500](https://i.imgur.com/lnR6mSA.jpg)
@@ -76,6 +97,12 @@ is so prettyyyyyyyyyyyyyyyyyy
 
 
 ## Key Lessons Learned
+
+- Dealing with multiple foam dodgeballs in a robot requires extreme care to index and pick up.
+- 3d Prints were stronger than we thought, and can be used frequently in structural parts
+- It's super important to have good packaging with different subsystems and get different subsystems talking to each other early.
+- Blocky cad for marking out subsystem sizes is super useful.
+- Back driving motors at huge speed can destroy electronics!
 
 # Performance
 
