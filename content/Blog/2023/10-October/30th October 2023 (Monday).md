@@ -21,4 +21,6 @@ During inspection we found a bolt that had sheared from the elbow "sprocket sand
 
 Seems like these high load sprockets have been breaking bolts a lot. If we were to do another year of something similar with similar loads, I think we would want to use larger bolts.
 
+We also once again talked about round spacers instead of hex to make alignment a lot easier.
+
 -Brennan
