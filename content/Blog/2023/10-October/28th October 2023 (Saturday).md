@@ -4,6 +4,7 @@ tags:
   - CAD
   - elevator
   - buildseason
+date: 2023-10-28
 ---
 # 254 Elevator Kickstand
 

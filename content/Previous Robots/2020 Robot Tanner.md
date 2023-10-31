@@ -1,7 +1,7 @@
 ---
 aliases:
   - Tanner
-date: 2020-03-03
+date: ""
 ---
 # About
 

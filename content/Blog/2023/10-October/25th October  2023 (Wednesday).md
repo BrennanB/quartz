@@ -3,6 +3,7 @@ tags:
   - scouting
   - strategy
   - blog
+date: 2023-10-25
 ---
 # 1678 Scouting and Strategy Process
 

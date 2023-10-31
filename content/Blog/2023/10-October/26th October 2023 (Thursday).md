@@ -8,6 +8,7 @@ tags:
   - driveteam
   - strategy
   - FEA
+date: 2023-10-26
 ---
 # 254 2023 Tech Binder Review
 

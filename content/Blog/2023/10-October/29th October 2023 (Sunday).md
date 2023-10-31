@@ -5,6 +5,7 @@ tags:
   - motor
   - Solidworks
   - blog
+date: 2023-10-29
 ---
 # Configurable Common Components
 

@@ -1,3 +1,7 @@
+---
+date: 2023-10-20
+---
+
 First #blog post! Going to be trying to document as much as possible.
 
 # Information Limiting the Drive Team

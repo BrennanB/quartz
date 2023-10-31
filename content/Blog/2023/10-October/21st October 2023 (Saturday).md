@@ -2,6 +2,7 @@
 tags:
   - 3Dprinting
   - purchasing
+date: 2023-10-21
 ---
 # [[3d printing]] purchasing for next year?
 

@@ -3,6 +3,7 @@ tags:
   - elevator
   - assistingteams
   - debugging
+date: 2023-10-24
 ---
 Had a call with team 5719 trying to help them out with their assorted robot issues prior to STEMley! Always a good experience to help out other teams and gives us the chance to learn something from other teams systems.
 

@@ -2,6 +2,7 @@
 tags:
   - blog
   - design
+date: 2023-10-30
 ---
 # 254 Chief Thread
 
