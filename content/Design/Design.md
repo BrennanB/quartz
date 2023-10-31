@@ -17,6 +17,7 @@ Welcome to the design section!
 - [[File Management System (CacheCAD)]]
 - [[Motor Controller]]
 - [[Center to Center Distance]]
+- [[General FRC Designing Tips]]
 
 # Also want to consider
 
