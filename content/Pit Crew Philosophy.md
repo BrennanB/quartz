@@ -2,29 +2,32 @@
 
 We have several expectations and goals for any [[Pit Crew]] communication. These goals are designed around having the most efficient possible actions as a whole unit.
 
-## Following Chain of Command
+## We Work as a Team
 
-- The [[Pit]] area follows a strict chain of command that must be respected. All other members must follow the instructions of the Lead [[Pit Mentor]]s while in the pit.
-	- Members who disagree with the instructions of the Lead Pit Mentor must still follow their direction. Raise concerns after the fact through an appropriate lead mentor.
-	- If members are unable to do this, the Lead Pit Mentor will ask them to stay out of the pit for the remainder of the day or competition.
-- Space is extremely limited in the team’s [[Pit]] area (10’x10’) and on the [[Practice Field]]. Only the [[Pit Crew]] members should be in the these areas, with the following exceptions:
-	- the [[Scouting]] or [[Strategy]] teams to relay information only
-	- the [[Media]] team to document the team only, with permission of one of the Lead [[Pit Mentor]]s
-	- awards students trained in talking to [[Judges]], when they have been called in by the Pit Leads
-	- [[Drive Team]] or [[Topping Crew]] members, when they have been called in by the Pit Leads
-- Extra [[Mentors]], [[Student]], family members, and guests should remove themselves from the [[Pit]] when not needed. The [[Pit Mentor]] leads will monitor this and ask people to leave as required (don’t take it personally!).
-- Do not sit in the [[Pit]] area when there is work to be done or when [[Judges]] are making their rounds. Members should always be ready to jump in and should maintain a professional appearance.
-- Food and drink are generally not allowed in the [[Pit]]s, except for bottled water, as per venue rules.
-- Do not yell “Robot!” to get people to move out of the way for the robot. Instead, say “excuse me,” politely.
-- When meeting a judge or special guest, greet them confidently with eye contact and introduce yourself. When [[Judges]] or the media visit the pit, refer them to a qualified individual or ask them to come back if the respective individuals are unavailable (we only get one shot to make an excellent impression).
+We communicate plans, insights, and issues clearly so that we can be efficient and effective.  We work together and delegate tasks as needed to get things done.
 
-- Safety glasses are required at all times. Avoid borrowing a pair of safety glasses from the safety glasses attendants; instead, ask another W.A.F.F.L.E.S. member to get you a pair from the pit or bring your own.
-	- Non-safety rated prescription glasses with side shields are not an appropriate substitute for safety glasses.
+## Following Mentor Guidance
 
-# We Do Our Best[§](https://wiki.wafflesrobotics.com/Drive-Team-Philosophy#we-do-our-best)
+Decisions are made collaboratively in the pit, but the pit crew is expected to follow the directions of the pit mentors when given as well as any final calls made by them.  The turnaround time between matches is often extremely tight, so it is imperative to trust the guidance of the leads.  Additional discussion and clarification can follow after the robot is sent to queue, when there is more time.
 
-Our goal is to be diligent and prevent issues from occurring in matches, and quickly resolve them if they do occur.
+# We Aim to Prevent, Rather than Repair
 
-# We are Team Players[§](https://wiki.wafflesrobotics.com/Drive-Team-Philosophy#we-are-team-players)
+We work as a team to ensure the robot is in the best possible condition before going out onto the field.  Our goal is to be diligent and prevent issues from occurring in matches, and quickly resolve them if they do occur.  This means that during downtime, when there are no known issues, we continue to inspect the robot and physically manipulate parts to identify potential problems before they happen.
 
-We work as a team to ensure the robot is in the best possible condition before going out onto the field.
+# We Work Quickly & Carefully
+
+Given the short time frame between matches, it is critical for the pit crew to have a certain amount of "hustle" while maintaining a keen attention to detail.  Think of the efficiency and diligence required of the pit crew for F1 teams. Pit members should be ready and willing to jump in and start a task at any time.
+
+# Only Pit Members Are in the Pit
+
+Space is extremely limited in the team's pit area and on the practice field. Only the [[Pit Crew]] members should be in the these areas, unless a team member is relaying information briefly or are called in by the lead pit mentors.
+
+Extra [[Mentors]], [[Student]], family members, and guests should remove themselves from the [[Pit]] when not needed. The [[Pit Mentor]] leads will monitor this and ask people to leave as required to prevent overcrowding.
+
+# The Pit Crew Does the Repairs
+
+The pit crew members perform repairs and maintenance on the robot, with the help of [[Topping Crew]] members as needed.  The drive team members inform the pit crew on any issues that occur in matches, but they do not work on the robot themselves.  We do this to minimize the workload on drive team members, and to give them time to do their match reviews.
+
+# We Represent the Team
+
+Members of the pit crew interact with judges, pit scouts, and members from other teams.  As such, they are expected to be positive and be professional.
