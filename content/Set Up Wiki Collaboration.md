@@ -39,3 +39,10 @@
 3. Update day format to `YYYY/MM-MMMM/Do MMMM y (dddd)`, and New File Location to `Blog`
    
    ![](https://i.imgur.com/DSOJilt.png)
+   
+4. Add `Blog Template` as a template for the daily notes.
+   
+   ![](https://i.imgur.com/xEJ1bgU.png)
+
+   
+
