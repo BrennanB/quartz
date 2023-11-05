@@ -28,6 +28,15 @@
 	- [ ] Automatically merge into one [[pick list]] for [[Scouting Meeting]]
 - [ ] Convert all features from current Excel sheet to online
 - [ ] New scouting tablets (from summer camp)
+- [ ] Check over /teams/XXXX for when db is accessed and why no data brakes the page
+- [ ] Fix pushing that duplicates stuff
+- [ ] When displaying numbers, round to sig figs
+- [ ] Don't display "no comments" comments
+- [ ] Some sort of search bar somewhere to select a team
+- [ ] Link teams on analysis page to team page
+- [ ] Make urls for specific views
+- [ ] fix average game pieces, currently says no matches played
+- [ ] have a way to update robot picture
 
 # [[Strategy]]
 

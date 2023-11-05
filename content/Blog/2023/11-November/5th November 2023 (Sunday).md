@@ -11,7 +11,7 @@ We just finished competing in the STEMley Cup yesterday! Lots of good things to 
 
 The scouting system half functioned with our new website. 
 
-Remember to bring power brick for scouting laptop
+Remember to bring power brick for [[scouting]] laptop
 
 Allocate a phone for data to push stuff, check to see if it works on apple.
 
@@ -24,14 +24,14 @@ Look into sim card dongle data thing so we don't have to sacrifice a phone, team
 - Tablet app worked well
 - Server app scanning
 	- csv generation
-- Match Schedule
+- [[Match]] Schedule
   The website just started working after match 14.
 - Analysis page was decent
-  
-  ### Broke
+
+### What Broke
 - Broke after match 28
 - mass duplication of matches
-  ### To fix
+### To Fix (tracked on [[Implement for 2024]])
 - [ ] Check over /teams/XXXX for when db is accessed and why no data brakes the page
 - [ ] Fix pushing that duplicates stuff
 - [ ] When displaying numbers, round to sig figs
