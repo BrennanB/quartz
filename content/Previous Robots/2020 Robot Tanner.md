@@ -26,7 +26,7 @@ The robot had a west coast drive with a [[ground pickup]] on a virtual four bar,
 
 The West coast [[drive train]] had 6 wheels with a centre drop and ran on 4 [[Falcon 500|Falcon]] [[motors]].  This was the first time we used [[brushless motors]] and our first experience with [[Falcon 500|Falcons]].  The standard 6" high grip wheels from [[AndyMark]] were used.  A metal baseplate was used for the first time.
 
-During a practice session, when the robot was spinning, the battery was ejected from the robot and caused backdriving in the [[Falcon 500|Falcons]].  This fried some of the [[electrical]] components ([[Limelight]], VRM, PCM).  This issue was later fixed in a firmware update.  The bolts on the output shafts of the [[Falcon 500|Falcons]] required [[loctite]], which was difficult to perform maintenance for due to small clearances, and required significant disassembly.
+During a practice session, when the robot was spinning, the battery was ejected from the robot and caused backdriving in the [[Falcon 500|Falcons]].  This fried some of the [[electrical]] components ([[Limelight]], VRM, PCM).  This issue was later fixed in a firmware update.  The bolts on the output shafts of the [[Falcon 500|Falcons]] required [[Loctite]], which was difficult to perform maintenance for due to small clearances, and required significant disassembly.
 
 During our competition, we did not have any issues with the drivetrain.
 

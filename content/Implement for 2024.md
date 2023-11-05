@@ -64,5 +64,5 @@
 
 # [[Electrical]]
 
-- [ ] Investigate [[Hall Effect Sensors|hall effect sensor]] wiring with the [[Kraken X60|kraken]]
+- [x] Investigate [[Hall Effect Sensors|hall effect sensor]] wiring with the [[Kraken X60|kraken]]
 - [ ] Wire [[2023 Robot Misha and Zoey]] with canivore and pidgeon

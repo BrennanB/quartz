@@ -15,4 +15,4 @@ Bad data gives you incorrect insights that you can be (incorrectly) confident in
 
 ## Only Scout what you Need
 
-4476 has a very minimalist approach to the number of things we scout broadly. If it doesn't apply to every team, target that scouting for the teams that need it.
+4476 has a very minimalist approach to the number of things we scout broadly. If it doesn't apply to every team, target that [[scouting]] for the teams that need it.
