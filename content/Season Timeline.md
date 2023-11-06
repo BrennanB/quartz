@@ -16,7 +16,7 @@ dateFormat MMM DD
 section General
 Kickoff: k, 01-06-2024, 1d
 section Robot
-Prototype: p, after k, 7d
+[[Prototyping|Prototype]]: p, after k, 7d
 CAD Robot: c, after p, 7d
 section Awards
 Robot Handouts: d, after c, 2w
@@ -30,31 +30,31 @@ Robot Handouts: d, after c, 2w
 - Draft Priority lists
 - xRC Simulator if it's out
 - Understand scale of field/game objects
+- Get models of game elements as needed
 
 ### Day 2 (Sunday)
 
 - Detailed kickoff worksheet
 - Points analysis
 - Review and validate priority list
-- Start Prototyping
-- Get models of game elements as needed
+- Start [[prototyping]]
 
 ### Day 3-7 (During the Week)
 
-- Get lessons learned from prototypes
-- Blocky cad
+- Get lessons learned from [[Prototyping|prototypes]]
+- Blocky #CAD
 - Adjust priority lists as needed
 - Adjust requirements as needed
 - Develop a V1 real cad as needed
 - [[Design]] concept internal reviews (2 per mech)
-- Benchmark Prototypes
+- Benchmark prototypes
 
 ## Week 2
 ### Day 8 (Saturday)
 
 - Lock in robot [[Mechanism|mechanisms]] and general packaging
 - Manufacture any v1 mechanisms
-- Drive rails CAD done, baseplate in workable condition
+- Drive rails #CAD done, baseplate in workable condition
 - Purchase [[drive train]] stuff as needed
 - [[Strategy]] review/robot [[design]]
 - Flesh out blocky cad to real mechanisms
@@ -166,7 +166,6 @@ Robot Handouts: d, after c, 2w
 - Manufacture and design new revs as needed
 - Benchmark
 
-
 ### Day 46-49 (Weekday)
 
 - Practice
@@ -175,6 +174,7 @@ Robot Handouts: d, after c, 2w
 - Design handouts done
 - Data validation done
 - Benchmark
+
 ## Rest of time
 
 - Practice
