@@ -52,6 +52,7 @@
 2. Better structure around focusing one [[match]] at a time. It's fine to briefly think about the future, but the now is always more important.
 # [[Design]]
 
+- [ ] Break down [[Priority List]] with individual requirements for the mechanisms, but separate from the list.
 - [ ] Part and [[Assembly]] [[Drawings]]
 - [ ] Port over from other document
 - [ ] CAD and create spacers for hex shaft that isn't hex to make it easier to align

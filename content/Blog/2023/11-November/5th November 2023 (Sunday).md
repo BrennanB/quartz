@@ -41,3 +41,25 @@ Look into sim card dongle data thing so we don't have to sacrifice a phone, team
 - [ ] Make urls for specific views
 - [ ] fix average game pieces, currently says no matches played
 - [ ] have a way to update robot picture
+
+# 2910 Engineering Process Talk
+
+Their full talk can be found [here](https://www.youtube.com/watch?v=RhfuKh0JkVc)
+
+## Takeaways
+
+### Priority List
+We can slightly modify our current [[Priority List]] process to make things clearer and ensure we have good design processes.
+
+- Simplify our requirements process by making sub lists for each requirement.
+	- Each subsystem should have requirements for
+		- Speed
+		- Orientation/Location
+		- Consistency/reliability
+	- There should also be overall robot requirements like:
+		- COG
+		- Holding things inside frame perimeter
+- Remember that these goals can have timelines where the mechanism can evolve and get better over time.
+  ![](https://i.imgur.com/cfR8AuH.jpg)
+
+Make sure requirements are specific, measurable, attainable and relevant.
