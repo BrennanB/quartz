@@ -148,12 +148,14 @@ Robot Handouts: d, after c, 2w
 - Create autos
 - Practice
 - Manufacture new revs as needed
+- Benchmark mechs
 
 ### Day 38-42 (Weekday)
 
 - Practice
 - Manufacture and design new revs as needed
 - Improve autos
+- Benchmark mechs
 ## Week 7
 
 ### Day 43-45 (Family day weekend)
@@ -162,6 +164,7 @@ Robot Handouts: d, after c, 2w
 - Practice
 - Improve autos
 - Manufacture and design new revs as needed
+- Benchmark
 
 
 ### Day 46-49 (Weekday)
@@ -171,8 +174,10 @@ Robot Handouts: d, after c, 2w
 - Manufacture and [[design]] new revs as needed
 - Design handouts done
 - Data validation done
+- Benchmark
 ## Rest of time
 
 - Practice
 - Improve autos
 - Manufacture and design new revs as needed
+- Benchmark
