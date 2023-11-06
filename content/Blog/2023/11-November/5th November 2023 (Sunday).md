@@ -63,3 +63,14 @@ We can slightly modify our current [[Priority List]] process to make things clea
   ![](https://i.imgur.com/cfR8AuH.jpg)
 
 Make sure requirements are specific, measurable, attainable and relevant.
+
+## Pit Review
+
+### What Went Well
+
+### What Could Have Been Better
+
+- There wasn't a lot for the third pit student to do, given that the the work and roles had been divided between the other two students for the season and they were accustomed to their tasks at that point.
+	- Next season, we would want to have a third role and checklist defined
+- Not specific to this event, but the bumpers took a harsh beating this year.
+	- It may be worth trying iron on numbers next season - the numbers can be off to the left or right instead of centred on the long side of the robot so that it's more feasible to align them with our reversible bumper design.
