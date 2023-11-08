@@ -17,15 +17,16 @@
    
 3. Write a brief summary of what you added, make sure you are on the v4 branch. If you aren't, click the branch and select v4. When ready press `commit to v4`
 
- ![[Commit Git Desktop.png]] 
+![](https://i.imgur.com/IHsfCff.png)
+ 
    
 4. Push to origin to update the site.
+   
+   
+   ![](https://i.imgur.com/AZcDe0T.png)
  
-  
- ![[Push to Origin Git Desktop.png]]
  
- 
-5. The website will automatically refresh after a few minutes with your changes!
+3. The website will automatically refresh after a few minutes with your changes!
 # Obsidian Configuration
 
 ## Daily Notes
