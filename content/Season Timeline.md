@@ -21,7 +21,7 @@ CAD Robot: c, after p, 7d
 section Awards
 Robot Handouts: d, after c, 2w
 ```
-
+---
 ## Week 1
 ### Day 1 (Saturday)
 
@@ -49,6 +49,7 @@ Robot Handouts: d, after c, 2w
 - [[Design]] concept internal reviews (2 per mech)
 - Benchmark prototypes
 
+---
 ## Week 2
 ### Day 8 (Saturday)
 
@@ -75,6 +76,7 @@ Robot Handouts: d, after c, 2w
 - [[Drive team]] comms/terminology
 - Decide data we are scouting + start making scouting system adjustments
 
+---
 ## Week 3
 ### Day 15 (Saturday)
 
@@ -103,6 +105,7 @@ Robot Handouts: d, after c, 2w
 - Paint as needed
 - Start making bumpers
 
+---
 ## Week 4
 
 ### Day 22 (Saturday)
@@ -118,6 +121,7 @@ Robot Handouts: d, after c, 2w
 - Wire robot
 - Test/Code mechanisms as able
 
+---
 ## Week 5
 
 ### Day 29 (Saturday)
@@ -141,6 +145,7 @@ Robot Handouts: d, after c, 2w
 - Start designing new revisions of [[Mechanism|mechanisms]] as needed
 - Move to [[Kingston Robotics Lab]]
 
+---
 ## Week 6
 
 ### Day 36-37 (Weekend)
@@ -156,6 +161,8 @@ Robot Handouts: d, after c, 2w
 - Manufacture and design new revs as needed
 - Improve autos
 - Benchmark mechs
+
+---
 ## Week 7
 
 ### Day 43-45 (Family day weekend)
@@ -175,6 +182,7 @@ Robot Handouts: d, after c, 2w
 - Data validation done
 - Benchmark
 
+---
 ## Rest of time
 
 - Practice
