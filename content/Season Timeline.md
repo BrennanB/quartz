@@ -16,8 +16,10 @@ dateFormat MMM DD
 section General
 Kickoff: k, 01-06-2024, 1d
 section Robot
-[[Prototyping|Prototype]]: p, after k, 7d
-CAD Robot: c, after p, 7d
+Prototype: p, after k, 6d
+Blocky Cad: b, after k, 6d
+CAD Robot: c, after b, 22d
+Manufacture Drive: m, after b, 2d
 section Awards
 Robot Handouts: d, after c, 2w
 ```
