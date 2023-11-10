@@ -13,7 +13,7 @@ To make CADding assemblies easier, I added some configurable components so we no
 
 To change the configuration of a components, just right click the component and choose a configuration from the dropdown:
 
-![[Pasted image 20231029223906.png]]
+![](https://i.imgur.com/TabOh6l.png)
 
 Configurable components added so far:
 - [[Rev]] MaxPlanetary Gearbox (1-3 stages)

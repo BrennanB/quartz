@@ -1,3 +1,10 @@
+---
+tags:
+  - blog
+  - CAD
+  - design
+  - Intake
+---
 # Sections:
 - Custom Gearboxes
 - Roller Styles
