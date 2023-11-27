@@ -1,6 +1,3 @@
-Blog has been kinda dead. Running a [[FLL]] event is a lot of hard work.
-ANYWAYS
-
 One of the biggest limitations to [[3D Printing]] can be the shift from lightweight, breakable part to something that can interface with the rest of the robot. Printing threads is generally a lot of work for very little reward - they're fragile and damage easily - but otherwise how else can you integrate a part with hardware when printing using [[Fused Deposition Modelling]]??
 
 I present the solution: [[Heat Set Inserts]].
@@ -14,5 +11,3 @@ I show this video (linked below) in my lectures that I give as part of a second-
 Video: https://www.youtube.com/watch?v=P7nHyI1TwKY&ab_channel=Markforged
 
 Text version of the video: https://markforged.com/resources/blog/heat-set-inserts?__geom=%E2%9C%AA
-
--taegen
