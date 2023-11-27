@@ -12,7 +12,7 @@ Project manager - Brennan
 
 # Managing priority list, big picture, deadlines
 
-## Prototyping
+## Phase 1: Prototyping
 - Try Spectrum’s PVC prototype kit
 - Start CAD while prototyping - just to map things out and get a better vision
 	- Blocky
@@ -25,7 +25,7 @@ Project manager - Brennan
 	- External
 		- Have at each stage of the process - like 3 times or something?
 
-## Phase 1: Design Concept
+## Phase 2: Design Concept
 - Simplicity (num of motors, combining parts, degrees of freedom, foolproofing the assembly, etc.)
 - Manufacturing feasibility/process (designing within our manufacturing means)
 - Geometry (pathing, dead spots)
@@ -44,7 +44,7 @@ Project manager - Brennan
 	- Space for electrical components
 - COG/tippiness
 - General maintenance (eg. avoid needing to take a lot of the robot apart to do a replacement)
-## Phase 2: Design Details
+## Phase 3: Design Details
 - Fasteners
 - Hole sizes
 - Clearances

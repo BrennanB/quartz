@@ -18,3 +18,5 @@ Key features of Slack include:
     
 
 Slack has become popular in various industries and is widely used by remote teams, as it facilitates efficient communication and collaboration regardless of physical location.
+
+You can only react to a post with 23 emojis, more than that it will give you an error.
