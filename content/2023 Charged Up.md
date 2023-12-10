@@ -1,9 +1,12 @@
-# General Strategy
+# Game Overview
 
-## High Level Overview
+## High Level Strategic Overview
 
 2023 for most of the season was a 3 offensive robot game. Generally this was due to the limited effectiveness of defense with how many protected zones there were. Generally teams would place cubes in the hybrid nodes as they were a bit easier to work with. Triple balances in [[endgame]] were basically required in [[Eliminations|playoffs]].
 
+## Game Piece Placements
+
+High nodes had to be prioritized first as they were the most points, however until worlds generally it would be the hybrid or lowest nodes that were second priority. Generally hybrid nodes were much easier to score on than the mid nodes, and they were only one point less per game piece which made them attractive especially for completing links.
 # Top Robots
 
 ## 1323
