@@ -74,4 +74,5 @@ We can slightly modify our current [[Priority List]] process to make things clea
 
 Make sure requirements are specific, measurable, attainable and relevant.
 
+-Brennan
 

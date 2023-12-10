@@ -2,19 +2,22 @@
 aliases:
   - design
 ---
-
 Welcome to the design section!
 
 # Things to Learn
 
+## Beginner
+- [[SolidWorks Intro]]
+- [[File Management System (CacheCAD)]]
 - [[Design Process]]
-- [[Mechanism]]
+## Intermediate
+
+- [[Powering Mechanisms]]
+- [[Mechanism|Mechanisms]]
 - [[Choosing Motors]]
 - [[Choosing Ratios]]
 - [[Choosing Materials]]
 - [[Choosing Fasteners]]
-- [[SolidWorks Intro]]
-- [[File Management System (CacheCAD)]]
 - [[Motor Controller]]
 - [[Center to Center Distance]]
 - [[General FRC Designing Tips]]

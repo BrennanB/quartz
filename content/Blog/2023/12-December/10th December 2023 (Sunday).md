@@ -22,7 +22,7 @@ This all relates to [[Robot Trajectories]]
 >   
 >  PathPlanner gives you a lot more control over your path compared to Choreo, but as a result, you can make a path the robot just can’t physically follow. When you do this, you’re going to have to do a lot of testing and tweaking to get it to a point where the robot can follow it. I literally made PathPlanner, but it still takes our team hours to tweak and test paths to get them to a good spot. That’s just how it works. Choreo tries to remove a lot of that testing and tweaking time by calculating a path that the robot can actually follow accurately from the beginning.
 >  
->  Yes, you have to spend time learning a new tool, but if it saves a bunch of time not having to test and tweak paths, you’re going to have a net time savings if you need to manage a bunch of autonomous modes.
+>  Yes, you have to spend time learning a new tool, but if it saves a bunch of time not having to test and tweak paths, you’re going to have a net time savings if you need to manage a bunch of [[autonomous]] modes.
 
 The downside for Choreo is it's not able to run on the fly generation; meaning for tasks like aligning to a node in the 2023 game, we would have to use PathPlanner for that. 
 
