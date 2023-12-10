@@ -10,6 +10,7 @@ Intakes are a subsystem on pretty much every robot where the purpose of the subs
 ## General Intake Design Guidelines
 
 - Try to use rollers/wheels over pinching/grasping [[Mechanism|mechanisms]]. Rollers almost always are more forgiving for alignment to pick up a game piece.
+	- When using rollers, make sure there are no dead zones where a wheel is not in contact with the game piece.
 - Read the intake section of [this](https://wiki.wafflesrobotics.com/Blog/2023/11-November/9th-November-2023-(Thursday)) blog for a guide on some roller types.
 ### Choosing an Intake Ratio
 

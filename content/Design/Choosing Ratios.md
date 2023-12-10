@@ -33,7 +33,7 @@ We use [Recalc](https://www.reca.lc/) to do the math calculations for our [[Mech
 ## Conveyor
 
 ### Restrictions
-- Empty conveyor in 0.5 second
+- Empty conveyor in 0.5 seconds
 - Conveyor is 40 inches long
 
 ### Process
