@@ -26,5 +26,3 @@ The downside for Choreo is it's not able to run on the fly generation; meaning f
 ![](https://www.chiefdelphi.com/uploads/default/original/3X/d/1/d19ece50b5decd0f791ac69af719c643dddc92c5.gif)
 ## Path Planner
 ![](https://www.chiefdelphi.com/uploads/default/original/3X/4/9/49554a9d337bdb9561b89b7d65dfe37835efafbb.gif)
-
--Brennan
