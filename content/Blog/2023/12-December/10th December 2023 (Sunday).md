@@ -50,7 +50,7 @@ Once the file location has been added, you'll be able to create any of these par
 - Rounded Hex, change hex size (1/2" or 3/8") and length
 - 3D Printable HTD 5mm Pulley, change tooth count and width (very broken, will fix later)
 
-![[Pasted image 20231210171737.png]]
+![](https://i.imgur.com/0UNqEOc.png)
 
 The beauty of these part templates is:
 a) Makes it very easy and quick to make common parts with no errors, and
@@ -67,12 +67,12 @@ Update to the [[29th October 2023 (Sunday)|October 29th Blog]]: new configurable
 
 Again, to choose which version of each component you'd like to use, you can right click the part and change the active configuration in your assembly.
 
-![[Pasted image 20231210183616.png]]
+![](https://i.imgur.com/sDiOr1B.png)
 ## Bill of Materials
 
 A Bill of Materials (BOM for short) is a list of components that are in an assembly. It usually only lists the part name and quantity, but we've gotten it to display a few more additional pieces of information:
 
-![[Pasted image 20231210190557.png]]
+![](https://i.imgur.com/Hd4qHzC.png)
 
 As long as you use the 4476 BOM Template when you create the BOM (it's in the 4476 SolidWorks Templates folder in the [[4476 Parts Library]]), the Description and Length columns will appear to show the configuration of the part as well as the length of shafts. There will probably be a column added to show the material of the part as well, that will be done at a later date.
 

@@ -5,8 +5,8 @@ tags:
 ---
 Enabling this setting lets you dimension sketch entities while you're initially placing them down. 
 
-![[Pasted image 20231014111956.png]]
+![](https://i.imgur.com/3l62JIv.png)
 
-Go to: \[Settings -> System Options -> Sketch] and check "Enable on screen numeric input..." and "Create dimension only when value is entered". 
+Go to: \[Settings -> System Options -> Sketch] and check "Enable on screen numeric input..." and "Create dimension only when value is entered".
 
-![[Pasted image 20231014112124.png]]
+![](https://i.imgur.com/iWZcLdf.png)

@@ -57,7 +57,7 @@ Keep in mind that thin wall tubing is harder to get, pocketed extrusion takes ti
 
 Inspired by the pocketing on my 2056 redesign project, I ran a few basic FEA tests on 2x1 aluminum extrusion with different lightening techniques. I tested for deflection and stress on 6 pieces of 11" long 2x1 extrusion; 4 pocketed 0.1" tubes, 1 plain 1/16 tube, and 1 plain 0.1" tube. The mass of these tubes are 0.377, 0.387, 0.380, 0.399, 0.386, and 0.600 pounds respectively.
 
-![[Pasted image 20231026203808.png]]
+![](https://i.imgur.com/Hlg1PlP.png)
 2056 style, square, 4476 style, circular, thin wall, regular.
 
 In a vertical load test, the back face of each extrusion was set as a fixture and a 1000N load was applied on the front face pointing directly downwards. Below are displacement and stress results. 
@@ -67,8 +67,8 @@ The displacement increase/mass reduction of each lightened tube was calculated u
 
 Also worth mentioning is that amongst the pocketed tubes, the square pattern showed the least amount of stress at the corners, even though all fillets are done to the same radius. Lower stress means a lower chance of permanent deformation/failure.
 
-![[Pasted image 20231026204225.png]]
-![[Pasted image 20231026205133.png]]
+![](https://i.imgur.com/MJFmexs.png)
+![](https://i.imgur.com/WpVYbYZ.png)
 
 A horizontal deflection test was set up in a similar way to the vertical load test, but a 500N load was applied pointing directly sideways instead. Below are displacement and stress results.
 
@@ -77,8 +77,8 @@ The displacement/mass reduction ratios were calculated for this test as well, an
 
 The square pattern also shows the lowest stress amongst the pocketed tubes in this test as well.
 
-![[Pasted image 20231026204847.png]]
-![[Pasted image 20231026205059.png]]
+![](https://i.imgur.com/wGnc6u6.png)
+![](https://i.imgur.com/q7voQM2.png)
 
 A horizontal deflection test was set up in a similar way to the vertical load test, but a 500N load was applied pointing directly into the tube at the top and bottom edges instead. Below are displacement and stress results.
 
@@ -87,8 +87,8 @@ The displacement/mass reduction ratios were calculated for this test as well, an
 
 The corners in the 2056 style pocketing saw the lowest amount of stress.
 
-![[Pasted image 20231026213724.png]]
-![[Pasted image 20231026215524.png]]
+![](https://i.imgur.com/CfhLINO.png)
+![](https://i.imgur.com/dLv5oyB.png)
 
 In terms of pure performance, the most impressive tubes were the equilateral triangle pocketed, square pocketed and thin wall tubing. Circular pocketing is very quick to CAD but performs very poorly, and 4476 style tubing performs poorly (and looks bad, imo). Good discovery to make before we carry our pattern over to future seasons.
 

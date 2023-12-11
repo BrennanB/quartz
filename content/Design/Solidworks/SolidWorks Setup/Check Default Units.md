@@ -13,6 +13,6 @@ To change your part's default units:
 6. Make sure you're saving in a folder named templates, then save the part template to overwrite the old one
 7. Close the part
 
-![[Pasted image 20231014000128.png]]
+![](https://i.imgur.com/l8q91Pt.png)
 
 Now, when you create a new part, it should go straight to IPS units. Repeat the above steps for assemblies by creating a new blank assembly, changing your units, and saving it as "Assembly.asmdot" in the same templates folder.

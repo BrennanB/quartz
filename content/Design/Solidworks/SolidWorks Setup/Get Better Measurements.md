@@ -1,3 +1,20 @@
+---
+tags:
+  - Solidworks
+  - CAD
+---
+The measure tool in SolidWorks defaults to showing 2 decimal places, which I find restricting. Typically when I'm working in CAD, I like to see at least 4 decimal places for imperial measurements (eg 1/16" = 0.0625"). I also like seeing measurements in both imperial and metric units as there are still parts in FRC designed around the metric system (e.g. [[REV]]'s [[Neo 550]]).
 
+Luckily, you can change how the measure tool displays measurements:
+1. Open a new part (make sure there are no other windows open in SolidWorks!)
+2. Open the measure tool (in the Evaluate toolbar by default)
+3. Click "Units/Precision" in the measure window
+4. Enable "Use custom settings", make sure the first length unit is Inches and turn up the number of decimal places
+5. Enable "Use Dual Units", change the units to Millimeters and turn up the number of decimal places
+6. Click OK
 
-Tags: #Solidworks #CAD 
+![](https://i.imgur.com/GMzPadX.png)
+![](https://i.imgur.com/Kp85GgV.png)
+
+Your measurements should now look like this:
+![](https://i.imgur.com/Qzwtkum.png)

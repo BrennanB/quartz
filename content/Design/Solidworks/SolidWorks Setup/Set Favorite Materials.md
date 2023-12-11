@@ -9,7 +9,7 @@ tags:
 4. Select the material in the list and click "Up" or "Down" to move it within the list
 5. Close the pop-up window
 
-![[Pasted image 20231014112554.png]]
+![](https://i.imgur.com/SEkifxD.png)
 
 There are some materials you'll use quite often in FRC, so it's recommended that you repeat the above steps for these materials:
 - 5052-H32 (Some sheet metal parts)
@@ -19,4 +19,4 @@ There are some materials you'll use quite often in FRC, so it's recommended that
 
 Now, when you're assigning a material to a part, you no longer have to search through the pop-up window for your material - just right click material and click on the material of your part.
 
-![[Pasted image 20231014112808.png]]
+![](https://i.imgur.com/DDKpHES.png)
