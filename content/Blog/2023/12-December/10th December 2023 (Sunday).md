@@ -3,6 +3,9 @@ tags:
   - blog
 date: 2023-12-10
 ---
+# Topics
+- Choreo Trajectories
+- Part Templates, Configurable Parts and BOMs
 # Choreo Trajectories
 
 This all relates to [[Robot Trajectories]]
@@ -32,4 +35,47 @@ Currently the PathPlanner team is working on integrating Choreo support in their
 ## Path Planner
 ![](https://www.chiefdelphi.com/uploads/default/original/3X/4/9/49554a9d337bdb9561b89b7d65dfe37835efafbb.gif)
 
--Brennan
+\- Brennan
+# Part Templates, Configurable Parts and BOMs
+
+My GitHub Desktop was broken for a few weeks but we're back with a ton of very new and very cool (I think) CAD stuff!!
+## Part Templates
+
+To create some parts quickly and without human error, I have created some part templates for 0.5" churro, round tube and rounded hex. If you want to take advantage of these, you'll need to add the "4476 SolidWorks Templates" folder to the list of "Document Template" file locations (learn how to [[Add File Locations]])
+
+Once the file location has been added, you'll be able to create any of these parts directly from the New Document window. All you'll have to do is choose the type of part you want to create, then change a few parameters on your own. As of now, we have part templates for the following components with their respective adjustable parameters:
+
+- 1/2" Churro, change length
+- Round Tube, change outer diameter (1/2" or 3/8") and length
+- Rounded Hex, change hex size (1/2" or 3/8") and length
+- 3D Printable HTD 5mm Pulley, change tooth count and width (very broken, will fix later)
+
+![[Pasted image 20231210171737.png]]
+
+The beauty of these part templates is:
+a) Makes it very easy and quick to make common parts with no errors, and
+b) They have fancy properties built in that automatically update in the assembly bill of materials
+(more on that later in this blog)
+## Configurable Components
+
+Update to the [[29th October 2023 (Sunday)|October 29th Blog]]: new configurable components have been added to the [[4476 Parts Library]]!
+- Bearings (various inner diameters, outer diameters, hex bores, flanges)
+- Flanged Bushings (various inner diameters, outer diameters, flanges)
+- Socket Head Cap Screws (#10-32 and 1/4"-20, various lengths)
+- Button Head Cap Screws (#10-32 and 1/4"-20, various lengths)
+- Nylock Nuts (#10-32 and 1/4"-20, standard and slim sizes)
+
+Again, to choose which version of each component you'd like to use, you can right click the part and change the active configuration in your assembly.
+
+![[Pasted image 20231210183616.png]]
+## Bill of Materials
+
+A Bill of Materials (BOM for short) is a list of components that are in an assembly. It usually only lists the part name and quantity, but we've gotten it to display a few more additional pieces of information:
+
+![[Pasted image 20231210190557.png]]
+
+As long as you use the 4476 BOM Template when you create the BOM (it's in the 4476 SolidWorks Templates folder in the [[4476 Parts Library]]), the Description and Length columns will appear to show the configuration of the part as well as the length of shafts. There will probably be a column added to show the material of the part as well, that will be done at a later date.
+
+The best part is that you can save the BOM as an Excel table, then copy everything into a Google Sheets if we'd like! This lets us make an efficient parts tracker during the build season (we'll probably write a blog on that soon - watch this space)
+
+\- Brandon
