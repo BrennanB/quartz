@@ -1,6 +1,6 @@
 # How to Select an Appropriate Gear Ratio
 
-To select an appropriate ratio for a [[mechanism]], we first need to set some baselines of what our mechanism should be able to do. Generally that comes down to two questions
+To select an appropriate ratio for a [[Mechanism]], we first need to set some baselines of what our mechanism should be able to do. Generally that comes down to two questions
 
 - How much mass does it need to move?
 - How fast does it need to move for a set common range?
@@ -21,7 +21,7 @@ This is going to drive how many [[motors]] and what kind of ratio you need.
 
 ## Process Notes
 
-Start with one motor, then add as needed. Take a look at [[choosing motors]] for what motors are best for what application. If we can do the job with one motor that is preferable for a few reasons. One is it's removing a point of failure, you also don't have to wire an additional motor. Sometimes the robot will be stretched thin for available motor slots, and another mechanism may need a motor.
+Start with one motor, then add as needed. Take a look at [[Choosing Motors]] for what motors are best for what application. If we can do the job with one motor that is preferable for a few reasons. One is it's removing a point of failure, you also don't have to wire an additional [[Motors|motor]]. Sometimes the robot will be stretched thin for available motor slots, and another [[Mechanism]] may need a motor.
 
 If a task can be done at a higher reduction to increase torque, that is beneficial as you draw less current from the battery. This reduces the chances of a brownout, and makes battery depletion less.
 # Design Calculator
@@ -33,7 +33,7 @@ We use [Recalc](https://www.reca.lc/) to do the math calculations for our [[Mech
 ## Conveyor
 
 ### Restrictions
-- Empty conveyor in 0.5 second
+- Empty conveyor in 0.5 seconds
 - Conveyor is 40 inches long
 
 ### Process

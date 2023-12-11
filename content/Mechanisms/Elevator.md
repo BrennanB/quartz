@@ -6,6 +6,10 @@ tags:
   - design
   - elevator
 ---
+# What is an Elevator?
+
+An elevator is a linear extension that can have multiple stages and is usually constructed of 2x1" aluminum tube.
+
 # Miscellaneous Elevator Things 
 
 ## Kickstand
