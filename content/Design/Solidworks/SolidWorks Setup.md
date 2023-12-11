@@ -5,10 +5,12 @@ Once SolidWorks is installed, there are a number of settings you can change to m
 **Recommended (These will make life so much easier + make you CAD better)**
 - [[Check Default Units]]
 - Enable "[[Rename Components from Feature Tree]]"
-- [[Design/SolidWorks Setup/Get Better Measurements]]
+- [[Add File Locations]]
+- [[Get Better Measurements]]
+- [[Setup Design Library]]
 - [[Enable Weldments]]
 
-**Suggested (Some fun settings that make SolidWorks a bit more fun)**
+**Suggested (Some fun settings that make SolidWorks a bit more fun/less painful)**
 - Enable "[[Dimension on Entity Creation]]"
 - [[Set Favorite Materials]]
 - [[Customize your tools]]

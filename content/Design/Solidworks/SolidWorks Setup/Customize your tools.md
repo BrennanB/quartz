@@ -1,3 +1,8 @@
+---
+tags:
+  - Solidworks
+  - CAD
+---
 There are some commands that we find super useful that [[SolidWorks]] doesn't make very accessible by default. To move them to the floating toolbar:
 
 1. Click the dropdown next to the settings icon and click "Customize"
@@ -7,5 +12,3 @@ There are some commands that we find super useful that [[SolidWorks]] doesn't ma
 ![[Pasted image 20231014114304.png]]
 
 The commands that you will probably use most are Measure, Mass Properties, and Normal To. Find each of these commands and drag them somewhere accessible.
-
-Tags: #Solidworks #CAD 

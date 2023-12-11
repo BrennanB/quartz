@@ -1,3 +1,8 @@
+---
+tags:
+  - Solidworks
+  - CAD
+---
 You can speed up your CAD a lot by customizing SolidWorks to match what you're used to, or by making some commonly used commands quick to use by assigning them to keybinds/mouse gestures. **However, note that you should still know where all commands are by default because our computer will not have these customized.** With that being said, here's how to customize your shortcuts.
 
 ## Mouse Gestures
@@ -24,5 +29,3 @@ To change your keyboard shortcuts:
 4. Click OK
 
 ![[Pasted image 20231014131201.png]]
-
-Tags: #Solidworks #CAD 

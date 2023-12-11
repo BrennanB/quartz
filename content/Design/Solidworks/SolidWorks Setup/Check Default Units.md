@@ -1,3 +1,8 @@
+---
+tags:
+  - Solidworks
+  - CAD
+---
 To check your default units, create a new part and check the lower right hand corner. If it says IPS, your default units are Inches, Pounds and Seconds which is perfect for our purposes (we generally build using imperial units). If it says MMGS, it's best to change the default so you don't finish designing the coolest part anyone's ever seen just to realize your part is 25.4 times too small. 
 
 To change your part's default units:
@@ -11,5 +16,3 @@ To change your part's default units:
 ![[Pasted image 20231014000128.png]]
 
 Now, when you create a new part, it should go straight to IPS units. Repeat the above steps for assemblies by creating a new blank assembly, changing your units, and saving it as "Assembly.asmdot" in the same templates folder.
-
-Tags: #Solidworks #CAD 

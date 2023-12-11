@@ -6,6 +6,8 @@ tags:
   - Solidworks
   - blog
 date: 2023-10-29
+aliases:
+  - October 29th Blog
 ---
 # Configurable Common Components
 

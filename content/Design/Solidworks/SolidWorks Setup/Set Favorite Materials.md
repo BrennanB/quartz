@@ -1,3 +1,8 @@
+---
+tags:
+  - Solidworks
+  - CAD
+---
 1. Right click "Materials \<not specified>" in the feature tree and click "Edit Material"
 2. In the search bar, look for the material you'd like to be easily accessible and select it
 3. Go to the Favorites tab and click "Add"
@@ -15,5 +20,3 @@ There are some materials you'll use quite often in FRC, so it's recommended that
 Now, when you're assigning a material to a part, you no longer have to search through the pop-up window for your material - just right click material and click on the material of your part.
 
 ![[Pasted image 20231014112808.png]]
-
-Tags: #Solidworks #CAD 

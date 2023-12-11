@@ -5,7 +5,7 @@ tags:
   - design
   - Intake
 ---
-# Sections:
+# Topics:
 - Custom Gearboxes
 - Roller Styles
 # Custom Gearboxes
