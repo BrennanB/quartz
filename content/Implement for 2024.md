@@ -28,10 +28,10 @@
 
 # [[Scouting]]
 
-- [ ] Putting data online for ease of access
+- [x] Putting data online for ease of access
 - [ ] Revamping [[Data Validation]]
 	- [ ] Each stat for each team has an associated error
-	- [ ] [[Pit Scouting]] to generate flags for each team
+	- [x] [[Pit Scouting]] to generate flags for each team
 	- [ ] Use flags to compare to inputted data to see if data matches flagged ability (ex. team scores high cone, but flags say they can't)
 - [ ] Personal [[Pick List]] online
 	- [ ] Automatically merge into one [[pick list]] for [[Scouting Meeting]]
