@@ -28,7 +28,7 @@ After briefing Gavin on some of the stuff we've been working on in terms of find
 
 ![](https://i.imgur.com/pYm9IMh.png)
 
-The A-F columns above are exported directly from SolidWorks and already has all of the information required. The person making this sheet only has to manually input the "Spare Qty", "Total Qty", and "Source" columns.
+The A-F columns above are exported directly from SolidWorks and already has all of the information required. The person making this sheet only has to manually input the "Spare Qty" and "Source" columns (Total Qty is automatically calculated).
 
 Once the parts are in the sheet, students are responsible for keeping the "Next Step" and "Next Step Notes" columns updated as they work trough designing, fabricating and assembling each part.
 
