@@ -5,6 +5,10 @@ tags:
   - design
   - Solidworks
 ---
+# Topics
+- 3847 Spectrum Robot Notes
+- Top-Down Workflow in SolidWorks
+
 # 3847 Spectrum Robot Notes
 ## Bearing Plates
 ![](https://i.imgur.com/kTOauB6.png)While most teams would have a press fit hole for their bearings directly in their plates, 3847 put their bearings in a small plate which is then screwed onto the main plate. They say this makes it easier to do maintenance on the [[intake]] rollers because it is easier to remove all the plates with the bearings in them rather than sliding the hex shaft through the bearing.

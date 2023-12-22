@@ -1,3 +1,11 @@
+---
+tags:
+  - Solidworks
+  - CAD
+  - design
+  - Intake
+  - arm
+---
 # 4499 Robot Notes
 
 ## General Construction Notes
