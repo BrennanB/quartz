@@ -7,7 +7,7 @@ tags:
 
 Christmas has come early, Configurable 20DP 1/2" Hex Bore Gears are here! Try them out by downloading changes to your 4476 Parts Library through CacheCAD. 
 
-![[Pasted image 20231221020736.png]]
+![](https://i.imgur.com/9VNgj1l.png)
 
 Features:
 - Super easy to swap between gears of different materials and sizes
