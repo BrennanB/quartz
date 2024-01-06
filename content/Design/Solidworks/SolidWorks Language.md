@@ -29,12 +29,13 @@ There are a few tabs on the sidebar, but we commonly only switch between the fir
 2. **Property Manager** - Where many user inputs and options appear
 	- Generally pops up automatically when needed - this will be referred to a lot!
 3. **Configuration Manager** - Create, delete, rename, and switch between configurations
+
+SolidWorks will automatically switch between the feature tree and property manager as you work, so don't worry about when you should be working in either tab. Just know their names and where to find them and you're set!
 ## Other Buttons
 
 ![](https://i.imgur.com/TW0d3HI.png)
 
 These buttons are either at the very top of your screen or on the left side of your toolbar. Some are worth mentioning:
 - **Rebuild** - This acts like a refresh button that recalculates all your features, components and mates
-- **Options** - Where most SolidWorks settings are, many [[SolidWorks Setup]] things are done here
-
+- **Options** - Where most SolidWorks settings can be found, many [[SolidWorks Setup]] things are done here
 # Miscellaneous Index
