@@ -66,6 +66,17 @@ Highlight is `==` ==Highlighted text==
 
 Comments look like %%Comment%%
 
+Embed a short by using this code and replace the shorts video code
+
+```
+<iframe width="315" height="560"
+src="https://www.youtube.com/embed/<Shorts_video_code>"
+title="YouTube video player"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+allowfullscreen></iframe>
+```
+
 Embed a video `![](https://www.youtube.com/watch?v=NnTvZWp5Q7o)`
 ![](https://www.youtube.com/watch?v=NnTvZWp5Q7o)
 
