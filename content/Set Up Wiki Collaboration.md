@@ -47,3 +47,10 @@
 
    
 
+# Build Blog Contribution
+
+1. Get access to 2024 Build Blog Repo (message Brennan about this)
+2. Edit daily note settings to this 
+   ![](https://i.imgur.com/uJZ0JNK.png)
+3. Clone the build blog repo to quartz/content/blog/2024
+4. Edit build blog files only in the newly created 2024Buildblog folder. The blog will be public after the season.
