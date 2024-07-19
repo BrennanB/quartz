@@ -1,5 +1,5 @@
 ## Set Up CacheCAD
-1. Go to [CacheCAD download page](https://drive.google.com/uc?id=1LqyR0u5NaoLW7MkFVd5pq4ezwmPu9884&export=download)
+1. Go to [CacheCAD download page](https://drive.usercontent.google.com/u/0/uc?id=1BaY2dzd9njdK8UrvhdGPG2ClQ6J_iNNR&export=download)
 2. Click "Download anyway" when Google Drive's warning page appears (CacheCAD is community made and has not been approved by Microsoft or Google)
 3. Open the downloaded "CacheCAD_setup.exe" file
 4. If a blue box appears warning you that the file might be harmful, press "More Info" then "Run Anyway" to continue

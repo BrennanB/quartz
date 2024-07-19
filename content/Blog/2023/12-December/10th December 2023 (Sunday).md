@@ -74,8 +74,8 @@ A Bill of Materials (BOM for short) is a list of components that are in an assem
 
 ![](https://i.imgur.com/Hd4qHzC.png)
 
-As long as you use the 4476 BOM Template when you create the BOM (it's in the 4476 SolidWorks Templates folder in the [[4476 Parts Library]]), the Description and Length columns will appear to show the configuration of the part as well as the length of shafts. There will probably be a column added to show the material of the part as well, that will be done at a later date.
+As long as you use the 4476 BOM Template when you create the table (it's in the 4476 SolidWorks Templates folder in the [[4476 Parts Library]]), the Description and Length columns will appear to show the configuration of the part as well as the length of shafts. There will probably be a column added to show the material of the part as well, that will be done at a later date.
 
-The best part is that you can save the BOM as an Excel table, then copy everything into a Google Sheets if we'd like! This lets us make an efficient parts tracker during the build season (we'll probably write a blog on that soon - watch this space)
+The best part is that we can save the BOM as an Excel table, then copy everything into a Google Sheet. This lets us make an efficient parts tracker during the build season (we'll probably write a blog on that soon - watch this space)
 
 \- Brandon

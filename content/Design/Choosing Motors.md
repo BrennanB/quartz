@@ -13,7 +13,7 @@ Currently we do not use any brushed motors. Brushed motors have lower efficiency
 We exclusively use brushless motors currently. The first time we used a brushless motor was on [[2020 Robot Tanner]].
 ## [[Kraken X60]]
 
-This is our primary go-to motor. Great for any high load situation (eg. [[Drive Train]], [[Shooter]], #Climber, etc.) preferred in low load (eg. #Intake, #Indexer, #Turret, etc.) situations as well. This motor integrates best with our preferred [[Software]] best.
+This is our primary go-to motor. Great for any high load situation (eg. [[Drive Train]], [[Shooter]], #Climber, etc.) preferred in low load (eg. #Intake, #Indexer, #Turret, etc.) situations as well. This motor integrates with our preferred [[Software]] best.
 
 ## [[Neo Vortex]]
 
