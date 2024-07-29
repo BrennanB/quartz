@@ -26,3 +26,7 @@ The downside for Choreo is it's not able to run on the fly generation; meaning f
 ![](https://www.chiefdelphi.com/uploads/default/original/3X/d/1/d19ece50b5decd0f791ac69af719c643dddc92c5.gif)
 ## Path Planner
 ![](https://www.chiefdelphi.com/uploads/default/original/3X/4/9/49554a9d337bdb9561b89b7d65dfe37835efafbb.gif)
+
+# What do we Use?
+
+In 2024 we used PathPlanner only. Even though it generates slightly slower paths which make it harder to execute everything in autonomous, it has features that allow it to recalculate on the fly if the robot gets bumped. These corrections lead to a more reliable autonomous, rather than being lost after a teammate bumps you out of the way.

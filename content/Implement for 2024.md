@@ -5,18 +5,18 @@
 - [ ] Increasing positive reinforcement
 - [ ] More social activities, especially in the off-season ([[Season Timeline]])
 	- Game nights, escape rooms, dinners, etc.
-- [ ] Use [[Kingston Robotics Lab]] location after the robot is built
+- [x] Use [[Kingston Robotics Lab]] location after the robot is built
 	- Tools, practice space, setup a [[Pit]] to work in for good practice
 
 # [[Pit]] Area
 
 - [ ] Talked about [[pit]] food - having pit snacks?
 - [x] Stocking [[tools]]
-- [ ] [[Colour Coding]] [[Tools]]
+- [x] [[Colour Coding]] [[Tools]]
 	- [ ] Indicate head type on Allen key labeling
 - [x] New toolbox on robot cart
 - [ ] Remove everything except the best/necessary tools and equipment from the toolbox, updating the packing list accordingly (reduce overpacking, make it much easier to see and find the tools that we really need)
-- [ ] Reorganize toolbox and yellow organizers for better use of space
+- [x] Reorganize toolbox and yellow organizers for better use of space
 	- [ ] Drawer separators for the big tool chest
 - [ ] Try having 3 pit [[Student|students]] and 2 [[Pit Mentor|pit mentors]]
 	- [ ] 3 separate checklists - one for each student
@@ -33,15 +33,15 @@
 	- [ ] Each stat for each team has an associated error
 	- [x] [[Pit Scouting]] to generate flags for each team
 	- [ ] Use flags to compare to inputted data to see if data matches flagged ability (ex. team scores high cone, but flags say they can't)
-- [ ] Personal [[Pick List]] online
+- [x] Personal [[Pick List]] online
 	- [ ] Automatically merge into one [[pick list]] for [[Scouting Meeting]]
 - [ ] Convert all features from current Excel sheet to online
-- [ ] New [[scouting]] tablets (from summer camp)
+- [x] New [[scouting]] tablets (from summer camp)
 - [ ] Check over /teams/XXXX for when db is accessed and why no data brakes the page
-- [ ] Fix pushing that duplicates stuff
+- [x] Fix pushing that duplicates stuff
 - [ ] When displaying numbers, round to sig figs
 - [ ] Don't display "no comments" comments
-- [ ] Some sort of search bar somewhere to select a team
+- [x] Some sort of search bar somewhere to select a team
 - [ ] Link teams on analysis page to team page
 - [ ] Make urls for specific views
 - [ ] fix average game pieces, currently says no matches played
@@ -49,11 +49,11 @@
 
 # [[Strategy]]
 
-- [ ] [[Slack]] threads for every quals [[match]] and [[Eliminations|elims]] alliances.
+- [x] [[Slack]] threads for every quals [[match]] and [[Eliminations|elims]] alliances.
 
 # [[Drive Team]]
 
-- [ ] Record matches from behind the glass
+- [x] Record matches from behind the glass
 
 ## Reducing Stress Levels
 
@@ -66,14 +66,14 @@
 ### General
 
 - [ ] Break down [[Priority List]] with individual requirements for the [[Mechanism|mechanisms]], but separate from the list.
-- [ ] Try 3D printed [[tube plugs]]
-- [ ] Try 3D printed bearing hats (go over flange, rivet/bolt to plate).  We had issues throughout the season with the bearings on the intake popping out.
+- [x] Try 3D printed [[tube plugs]]
+- [x] Try 3D printed bearing hats (go over flange, rivet/bolt to plate).  We had issues throughout the season with the bearings on the intake popping out.
 - [ ] Try iron on [[Bumpers|bumper]] numbers (offset to one side to make it easier for the reversible design) - bumpers took a harsh beating this year
 
 ### [[Prototyping]]
 
 
-- [ ] Try the Spectrum Protopipe system for [[Prototyping|prototypes]] (PVC pipes with 3D printed fittings)
+- [x] Try the Spectrum Protopipe system for [[Prototyping|prototypes]] (PVC pipes with 3D printed fittings)
 
 ### CAD
 
@@ -92,20 +92,20 @@
 - [ ] Part and [[Assembly]] [[Drawings]] for in-house parts
 	- [ ] Make sure we have drawing templates set up again
 - [ ] Map out/plan for spacers
-- [ ] Master spreadsheet for part [[manufacturing]]
+- [x] Master spreadsheet for part [[manufacturing]]
 	- [ ] Manufacture in order of assembly
 - [ ] Make full spare systems (eg. swerve module, [[intake]])
-- [ ] Do test holes in aluminum and [[Polycarbonate|lexan]] to find the right drill sizes for us
-	- [ ] Bearings (press fit)
-	- [ ] 3/16 rivets
-	- [ ] 10/32 clearance
-	- [ ] 8/32 clearance
-	- [ ] ¼-20 clearance
+- [x] Do test holes in aluminum and [[Polycarbonate|lexan]] to find the right drill sizes for us
+	- [x] Bearings (press fit)
+	- [x] 3/16 rivets
+	- [x] 10/32 clearance
+	- [x] 8/32 clearance
+	- [x] ¼-20 clearance
 
 ## [[Electrical]]
 
 - [x] Investigate [[Hall Effect Sensors|hall effect sensor]] wiring with the [[Kraken X60|kraken]]
-- [ ] Wire [[2023 Robot Misha and Zoey]] with [[canivore]] and pidgeon
+- [x] Wire [[2023 Robot Misha and Zoey]] with [[canivore]] and pidgeon
 
 
 ## Programming
