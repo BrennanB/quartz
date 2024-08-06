@@ -11,11 +11,13 @@ tags:
 
 ![](https://i.imgur.com/SEkifxD.png)
 
-There are some materials you'll use quite often in FRC, so it's recommended that you repeat the above steps for these materials:
+There are some materials you'll use quite often in FRC, so it's recommended that you repeat the above steps for these materials (and remove the rest):
 - 5052-H32 (Some sheet metal parts)
 - 6061-T6 (SS) (Most sheet metal parts + extrusion + some shafts)
 - 7075-T6 (SS) (Some shafts)
 - PC High Viscosity (Lexan)
+- Printed PLA (3D printed PLA parts, requires you to [[Add File Locations]])
+- Printed PA6-CF (3D printed carbon-infused nylon, requires you to [[Add File Locations]])
 
 Now, when you're assigning a material to a part, you no longer have to search through the pop-up window for your material - just right click material and click on the material of your part.
 

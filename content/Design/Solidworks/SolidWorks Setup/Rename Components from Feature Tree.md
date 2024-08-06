@@ -7,7 +7,7 @@ By default, the procedure to rename files is very clumsy and can cause errors in
 
 ![](https://i.imgur.com/njFgejX.png)
 
-Go to: \[Settings -> System Options -> FeatureManager] then check "Allow components to be renamed...".
+Go to: \[Settings -> System Options -> FeatureManager] then enable "Allow components to be renamed...".
 
 ![](https://i.imgur.com/XeKnCgz.png)
 

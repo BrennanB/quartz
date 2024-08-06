@@ -7,16 +7,17 @@ To install SolidWorks, follow the instructions provided in [this spreadsheet](ht
 
 Once SolidWorks is installed, there are a number of settings you can change to make life easier later on. These are mostly unrelated to each other, so here's a list of suggested settings changes ranging from most recommended to merely suggested:
 
-**Mandatory (These are commonly used on the team)**
-- [[Check Default Units]]
+**Mandatory (These are heavily used on the team, must complete for level 2 CAD certification)**
 - [[Add File Locations]]
 - Enable "[[Rename Components from Feature Tree]]"
 - [[Get Better Measurements]]
 - [[Setup Design Library]]
+- [[Set Favorite Materials]]
+- [[Enable Autosave]]
+- [[Set up Document Template Prompts]]
 
-**Suggested (Some fun settings that make SolidWorks a bit more fun/less painful)**
+**Suggested (Some fun settings that make SolidWorks better to use)**
 - [[Enable Weldments]]
 - Enable "[[Dimension on Entity Creation]]"
-- [[Set Favorite Materials]]
 - [[Customize your tools]]
 - [[Customize your shortcuts]]

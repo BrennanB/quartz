@@ -9,7 +9,7 @@ You can [[design]] complex structures made out of aluminum box extrusion, but th
 
 Weldments are a set of SolidWorks tools that lets you sketch a path, then generate an extrusion profile that follows your path. For a demonstration of how this works, watch the first 2 minutes of this [YouTube video](https://www.youtube.com/watch?v=U8zpMxDt7xc)
 
-The first step to getting weldments set up is to download the [[4476 Parts Library]] (Check out the [[CacheCAD Setup]] page for how to add this library). Then, add the "Weldment Sketches" folder in the 4476 Parts library as a file location for "Weldment Profiles" (learn how to [[Add File Locations]].
+The first step to getting weldments set up is to download the [[4476 Parts Library]] (Check out the [[CacheCAD Setup]] page for how to add this library). Then, add the "Weldment Sketches" folder in the 4476 Parts library as a file location for "Weldment Profiles" (learn how to [[Add File Locations]]).
 
 ![](https://i.imgur.com/baZgCxO.png)
 ![](https://i.imgur.com/a3RHT3J.png)

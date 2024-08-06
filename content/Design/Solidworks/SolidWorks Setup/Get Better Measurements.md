@@ -3,7 +3,7 @@ tags:
   - Solidworks
   - CAD
 ---
-The measure tool in SolidWorks defaults to showing 2 decimal places, which I find restricting. Typically when I'm working in CAD, I like to see at least 4 decimal places for imperial measurements (eg 1/16" = 0.0625"). I also like seeing measurements in both imperial and metric units as there are still parts in FRC designed around the metric system (e.g. [[REV]]'s [[Neo 550]]).
+The measure tool in SolidWorks defaults to showing 2 decimal places, which can be restrictive. Typically when I'm working in CAD, I like to see at least 4 decimal places for imperial measurements (eg 1/16" = 0.0625"). I also like seeing measurements in both imperial and metric units as there are still parts in FRC designed around the metric system (e.g. brushless CIM class motors like the [[NEO Brushless V1.1]] and [[Kraken X60]] have an outer diameter of 60mm).
 
 Luckily, you can change how the measure tool displays measurements:
 1. Open a new part (make sure there are no other windows open in SolidWorks!)
