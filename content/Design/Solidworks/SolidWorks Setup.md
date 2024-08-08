@@ -3,11 +3,11 @@ tags:
   - Solidworks
   - CAD
 ---
-To install SolidWorks, follow the instructions provided in [this spreadsheet](https://docs.google.com/spreadsheets/d/1AAJ7ueWqx_pui89ytcHOLbipR8hLAZMzIT-uO9koAL8/edit#gid=0) (4476 members only).
+To install SolidWorks, follow the instructions provided in [this spreadsheet](https://docs.google.com/spreadsheets/d/1BnQlOKU5zrZyKL2oVl6Mix5rvG7pekPQ1nhKkaExhLtk/view) (4476 members only).
 
-Once SolidWorks is installed, there are a number of settings you can change to make life easier later on. These are mostly unrelated to each other, so here's a list of suggested settings changes ranging from most recommended to merely suggested:
+Once SolidWorks is installed, there are a number of settings you must change in order to use it properly with the rest of the team. All mandatory steps must be completed on a computer before it can be used for any collaborative CAD projects on the team.
 
-**Mandatory (These are heavily used on the team, must complete for level 2 CAD certification)**
+**Mandatory**
 - [[Add File Locations]]
 - Enable "[[Rename Components from Feature Tree]]"
 - [[Get Better Measurements]]
@@ -16,8 +16,9 @@ Once SolidWorks is installed, there are a number of settings you can change to m
 - [[Enable Autosave]]
 - [[Set up Document Template Prompts]]
 
-**Suggested (Some fun settings that make SolidWorks better to use)**
+**Suggested**
 - [[Enable Weldments]]
 - Enable "[[Dimension on Entity Creation]]"
 - [[Customize your tools]]
 - [[Customize your shortcuts]]
+- [[Rotate about scene floor]]

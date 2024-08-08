@@ -10,6 +10,6 @@ There are many CAD programs available for FRC teams, but the one we use is Solid
 If you're super duper new to SolidWorks, it helps to first get familiar with the language that will be used in the rest of this wiki so make sure to check out our section on the [[SolidWorks Language]].
 ## Get Started:
 
-- [[SolidWorks Setup]]
+- [[SolidWorks Setup]] (Mandatory)
+- [[File Management System (CacheCAD)]] (Mandatory)
 - [[File Naming Convention]]
-- [[File Management System (CacheCAD)]]

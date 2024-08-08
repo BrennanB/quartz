@@ -37,5 +37,7 @@ SolidWorks will automatically switch between the feature tree and property manag
 
 These buttons are either at the very top of your screen or on the left side of your toolbar. Some are worth mentioning:
 - **Rebuild** - This acts like a refresh button that recalculates all your features, components and mates
-- **Options** - Where most SolidWorks settings can be found, many [[SolidWorks Setup]] things are done here
+- **Options (aka. Settings)** - Where most SolidWorks settings can be found, many [[SolidWorks Setup]] things are done here
 # Miscellaneous Index
+
+- 

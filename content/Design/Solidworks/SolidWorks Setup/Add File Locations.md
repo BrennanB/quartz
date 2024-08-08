@@ -16,7 +16,7 @@ There are multiple reasons you may want to add a file location, so we're not goi
 To start, please add:
 - "4476 SolidWorks Templates" - add as a "BOM Templates" folder
 - "4476 SolidWorks Templates" - add as a "Document Templates" folder
-- "4476 SolidWorks Templates" - add as a "Custom Property Files" folder
+- "4476 SolidWorks Templates" - add as a "Custom Property Files" folder (the existing file location must be deleted first)
 - "4476 SolidWorks Templates" - add as a "Hole Wizard Favorites Database" folder
 - "4476 SolidWorks Templates" - add as a "Material Database" folder
 - "Weldment Sketches" - add as a "Weldment Profiles" folder

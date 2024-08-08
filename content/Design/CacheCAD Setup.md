@@ -1,3 +1,8 @@
+---
+tags:
+  - CacheCAD
+  - CAD
+---
 ## Set Up CacheCAD
 1. Go to [CacheCAD download page](https://drive.usercontent.google.com/u/0/uc?id=1BaY2dzd9njdK8UrvhdGPG2ClQ6J_iNNR&export=download)
 2. Click "Download anyway" when Google Drive's warning page appears (CacheCAD is community made and has not been approved by Microsoft or Google)
@@ -18,5 +23,3 @@ At this point, CacheCAD is fully installed! However, you need to set up the proj
 5. Once CacheCAD finishes loading the project, click on "Download Changes" then "Download Changes" again. It will take a while to download big projects like our parts library (patience!!!)
 
 Start by creating a project for the [[4476 Parts Library]] and for the specific [[FRC]] robot for the corresponding season. You may need to create new CacheCAD projects for any other CAD tasks you are involved in.
-
-Tags: #CacheCAD #CAD 
