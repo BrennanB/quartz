@@ -11,7 +11,7 @@
 The robot was named after Mackenzie who was a family friend of one of the families on the team. This started our whole partnership with OneMatch and naming our robot after someone in need each year.
 ## Fun Lore
 
-- Our first match of the year holds the world record for scoring (with penalties) [watch it here] (https://www.thebluealliance.com/match/2014onto_qm4)
+- Our first match of the year holds the world record for scoring (with penalties) [watch it here](https://www.thebluealliance.com/match/2014onto_qm4)
 - We totally broke this robot! We put stiff surgical tubing on the linkage and it dramatically broke itself instead of stretching the tubing.
 - It had a very useless hard-stop piston that we had only put on because a [[Robot Inspector]] told us to, but then we accidentally forgot to deactivate the piston and it turned on during the match and broke itself :)
 - First event win!

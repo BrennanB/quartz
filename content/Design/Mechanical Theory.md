@@ -74,6 +74,8 @@ The moment of inertia of an object depends not only on how much mass it has, but
 You're not expected to know how to manually calculate for the moment of inertia for any object (doing so requires math skills like 2D integration and working in polar coordinates), but there are formulas for common shapes:
 
 (insert formulas)
+
+When designing joints on FRC robots, lower moment of inertias are generally better. This means keeping all heavy components closer to the pivot point (eg. motors, heavy wheels etc). However, there are places where you want a higher moment of inertia. An example of such place is for the shooter wheel, as you want it to decelerate as little as possible when it comes into contact with a game piece.
 # Second Moment of Area
 
 Similarly to how the moment of inertia of an object measures the amount of mass and the distance between that mass and the point of rotation, the second moment area of a shape measures the amount of area and the distance between that area and the central axis. 
