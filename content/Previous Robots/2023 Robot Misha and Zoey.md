@@ -2,12 +2,12 @@
 
 ## The Game
 
-The game for 2023 was Charged Up, watch the game reveal here: (insert link)
+The game for 2023 was Charged Up, watch the game reveal [here](https://www.youtube.com/watch?v=0zpflsYc4PA&pp=ygUOY2hhcmdlZCB1cCBmcmM%3D).
 
 Scoring in this game was accomplished largely through placing cubes and cones on the grid, as well as balancing robots on the charge station at the end of the auto period and the end of the match. This was a very cycle-heavy game where much of a team's performance was how quickly the robot can pick up a piece, travel across the field, then place the piece.
 ## Team Abilities
 
-The team had now used swerve drive for a full season, and still have access to the same manufacturing resources from 2022. The team had a few more technical mentors come in who were alumni of other teams.
+The team had used swerve drive for the full 2022 season, and still have access to the same manufacturing resources. The team had a few more technical mentors come in who were alumni of other teams.
 ## Robot Name
 
 Like most years, the team paired up with Canadian Blood Services to name our robot after someone in need of a stem cell transplant. However this year, we got names of twins Misha and Zoey, marking the first year we name our robot after twins!
@@ -18,7 +18,7 @@ Like most years, the team paired up with Canadian Blood Services to name our rob
 - At both the Humber College event and the Ontario Provincial Championship, the team seeded 1st and won the industrial design award
 - Misha-Zoey went 17-0-0 at the Humber event, which was the first time the team went undefeated at any event!
 - The team's longest ever win streak happened this season as Misha-Zoey won 17 matches in a row at Humber then 9 matches in a row at the Ontario District Championship, bringing the total winstreak up to a very respectable 26 matches
-- Misha-Zoey's first match held the world record score at the time
+- A bolt used for mounting the intake motor got crossthreaded at an event, so as a quick fix the intake motor was half hot-glued on
 # The Robot
 
 ![2023 Misha and Zoey](https://i.imgur.com/VcSy7ubh.jpg)
