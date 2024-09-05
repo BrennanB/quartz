@@ -15,7 +15,7 @@ Also I think that their method of [pairwise comparisons](https://www.youtube.com
 
 # Pit Training
 
-Need to train people for STEMly, can go over [[Pit Crew Philosophy]]
+Need to train people for STEMly, can go over [[Generic WAFFLES Content/Pit Crew Philosophy]]
 
 # 3D Printed Power Guard
 

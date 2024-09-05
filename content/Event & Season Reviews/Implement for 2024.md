@@ -10,7 +10,7 @@
 
 # [[Pit]] Area
 
-- [ ] Talked about [[pit]] food - having pit snacks?
+- [ ] Talked about [[Pit]] food - having pit snacks?
 - [x] Stocking [[tools]]
 - [x] [[Colour Coding]] [[Tools]]
 	- [ ] Indicate head type on Allen key labeling
@@ -66,7 +66,7 @@
 ### General
 
 - [ ] Break down [[Priority List]] with individual requirements for the [[Mechanism|mechanisms]], but separate from the list.
-- [x] Try 3D printed [[tube plugs]]
+- [x] Try 3D printed [[Tube Plugs]]
 - [x] Try 3D printed bearing hats (go over flange, rivet/bolt to plate).  We had issues throughout the season with the bearings on the intake popping out.
 - [ ] Try iron on [[Bumpers|bumper]] numbers (offset to one side to make it easier for the reversible design) - bumpers took a harsh beating this year
 

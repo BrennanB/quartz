@@ -54,7 +54,7 @@
 
 # Pit
 ## Good things
-- Saw other well-made pits, inspiration for our own new [[pit]] design (modules were good)
+- Saw other well-made pits, inspiration for our own new [[Pit]] design (modules were good)
 - Swapping sheared arm bolts was pretty quick for the type of repair it was
 	- Look at bolt grades for high-load/stress bolts for next time
 - Having two [[Pit Mentor]]s was helpful (Andy stepped in at Houston to help Karly)

@@ -8,7 +8,7 @@ date: ""
 ## The Game
 
 ## Team Abilities
-In terms of team members for the 2020 season, we had 4 strong CAD students and experienced [[Mentor|mentors]] for [[design]], mechanical, and [[electrical]].  We had [[Sponsor|sponsors]] for laser cutting for metal and waterjet for [[Polycarbonate|lexan]] parts.  This was the first year that we had structural 3D printed parts (PLA), and our second year of using a [[Limelight]].
+In terms of team members for the 2020 season, we had 4 strong CAD students and experienced [[Mentor|mentors]] for [[design]], mechanical, and [[electrical]].  We had [[Sponsor|sponsors]] for laser cutting for metal and waterjet for [[Polycarbonate|lexan]] parts.  This was the first year that we had structural 3D printed parts (PLA), and our second year of using a [[LimeLight]].
 
 ## Robot Name
 
@@ -26,7 +26,7 @@ The robot had a west coast drive with a [[ground pickup]] on a virtual four bar,
 
 The West coast [[drive train]] had 6 wheels with a centre drop and ran on 4 [[Falcon 500|Falcon]] [[motors]].  This was the first time we used [[brushless motors]] and our first experience with [[Falcon 500|Falcons]].  The standard 6" high grip wheels from [[AndyMark]] were used.  A metal baseplate was used for the first time.
 
-During a practice session, when the robot was spinning, the battery was ejected from the robot and caused backdriving in the [[Falcon 500|Falcons]].  This fried some of the [[electrical]] components ([[Limelight]], VRM, PCM).  This issue was later fixed in a firmware update.  The bolts on the output shafts of the [[Falcon 500|Falcons]] required [[Loctite]], which was difficult to perform maintenance for due to small clearances, and required significant disassembly.
+During a practice session, when the robot was spinning, the battery was ejected from the robot and caused backdriving in the [[Falcon 500|Falcons]].  This fried some of the [[electrical]] components ([[LimeLight]], VRM, PCM).  This issue was later fixed in a firmware update.  The bolts on the output shafts of the [[Falcon 500|Falcons]] required [[Loctite]], which was difficult to perform maintenance for due to small clearances, and required significant disassembly.
 
 During our competition, we did not have any issues with the drivetrain.
 
@@ -45,24 +45,24 @@ We had issues with overtightening the bolts connecting the [[Polycarbonate|lexan
 The intake could also jam if a ball was not fully contained in between the lexan side plates. The 2020 game piece was extremely grippy, and it wouldn't center into the intake well, causing the ball to compress and get stuck in the wheels.
 ### [[Funnel]]
 
-One side of the funnel had a polycord [[belt]] to agitate the balls and push them into the conveyor.  It went from a width equivalent to two balls wide down to one ball wide.  Three balls could be stored in the funnel at a given time.
+One side of the funnel had a polycord [[Belt]] to agitate the balls and push them into the conveyor.  It went from a width equivalent to two balls wide down to one ball wide.  Three balls could be stored in the funnel at a given time.
 
 **![](https://lh7-us.googleusercontent.com/EmNaPW8II_FEP1XfC0ZJKrua3SIpywaO89koaoWLV5bH5QV4PmeA0YxRKJHUwXzcX9M4LSKUJWVGhrBZTHCOvm4zwyGrfM3IqfHIOl7-F1NYoKDHV3aKk8KNMyVc_JPL4m5i6qIl_XeKxB2TbC3TYA)**
 
-We had issues with balls falling out because there was no [[Polycarbonate|lexan]] top in the actual version, due to weight limitations.  Metal [[pulleys]] were originally used, but were swapped to crown pulleys to avoid damaging the balls.  Extra lexan was added to the [[intake]] to better guide the balls into the funnel and prevent balls from falling out.  The funnel mounting [[design]] was not optimal for maintenance, as the lexan blocked access.  The plate on the top side of the polycord [[belt]] would dig into the ball and limit proper contact/indexing.
+We had issues with balls falling out because there was no [[Polycarbonate|lexan]] top in the actual version, due to weight limitations.  Metal [[Pulleys]] were originally used, but were swapped to crown pulleys to avoid damaging the balls.  Extra lexan was added to the [[intake]] to better guide the balls into the funnel and prevent balls from falling out.  The funnel mounting [[design]] was not optimal for maintenance, as the lexan blocked access.  The plate on the top side of the polycord [[Belt]] would dig into the ball and limit proper contact/indexing.
 
 ![500](https://i.imgur.com/jXgoMAV.jpg)
 
 ### [[Conveyor]]
 
-The conveyor fed the balls indexed by the funnel into the [[shooter]] using polycord [[Belt|belts]] on 3D printed crown [[pulleys]], and it was powered by another bag [[Motors|motor]].
+The conveyor fed the balls indexed by the funnel into the [[shooter]] using polycord [[Belt|belts]] on 3D printed crown [[Pulleys]], and it was powered by another bag [[Motors|motor]].
 
 **![](https://lh7-us.googleusercontent.com/nz2VGuPecg2qrlZmvF_oTGfHTbIrVFN12GCzei8MEqymCN0tXBK9-SkXvc2RPGCkGp-XE4c0QfFLZ9Bd9NIodiryNyW4gKBdEhHuwud7dmOKiIc-ZQsV5-DMtGVJCjqrDcCU03s7sA1c6zVM5LEzkQ)**
 
-The transition from the funnel to the conveyor was not fully planned, and thus there were issues with geometry and dead spots.  The crown [[pulleys]] were not perfectly aligned, causing the polycord [[Belt|belts]] to slip off frequently.  Ball jams frequently occurred in the conveyor.
+The transition from the funnel to the conveyor was not fully planned, and thus there were issues with geometry and dead spots.  The crown [[Pulleys]] were not perfectly aligned, causing the polycord [[Belt|belts]] to slip off frequently.  Ball jams frequently occurred in the conveyor.
 ### [[Shooter]]
 
-The shooter was powered by 2 neos. The hood was 3d printed pla, and had slots in it to have two positions for a wide range of shooting locations. The hood was powered by a single acting piston, defaulting into the closer range. The shooter also had a [[limelight]] to align to the goal, as well as a general range finding algorithm for either a long range shot from the trench or a closer initiation line shot. The shooter also had an acceleration wheel to help minimize the load on the main flywheel and maintain flywheel fire rate.
+The shooter was powered by 2 neos. The hood was 3d printed pla, and had slots in it to have two positions for a wide range of shooting locations. The hood was powered by a single acting piston, defaulting into the closer range. The shooter also had a [[LimeLight]] to align to the goal, as well as a general range finding algorithm for either a long range shot from the trench or a closer initiation line shot. The shooter also had an acceleration wheel to help minimize the load on the main flywheel and maintain flywheel fire rate.
 
 The shooter itself was quite rigid and had a reasonable firing rate. Generally it was more accurate than many shooters in the field, and had reasonable inner percentage rate. There was some left/right inaccuracy that we saw due to inconsistent loading of the power cells through the shooter. This was because the actual feed of the shooter had some range left right where the ball could enter the shooter and thus the output saw that same error as well.
 

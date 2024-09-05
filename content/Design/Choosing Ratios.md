@@ -26,7 +26,7 @@ Start with one motor, then add as needed. Take a look at [[Choosing Motors]] for
 If a task can be done at a higher reduction to increase torque, that is beneficial as you draw less current from the battery. This reduces the chances of a brownout, and makes battery depletion less.
 # Design Calculator
 
-We use [Recalc](https://www.reca.lc/) to do the math calculations for our [[Mechanism|mechanisms]]. Each calculation has a unique url that you can copy and save for reference later. Save these urls and put them in [[slack]] for future reference.
+We use [Recalc](https://www.reca.lc/) to do the math calculations for our [[Mechanism|mechanisms]]. Each calculation has a unique url that you can copy and save for reference later. Save these urls and put them in [[Slack]] for future reference.
 
 # Example Calculations
 

@@ -23,7 +23,7 @@ It is said that there’s an exception to every rule. We have tried to write the
 *Dress code is strictly enforced on each day of competition.*
 
 1. Team members should wear a [[W.A.F.F.L.E.S.]] team shirt on competition days, including on load-in/practice day.
-2. All members of the team must wear their current-year W.A.F.F.L.E.S. team shirt, as the [[sponsor]] logos on the back are updated annually. Family members are encouraged, but not required, to wear a current-year W.A.F.F.L.E.S. shirt.
+2. All members of the team must wear their current-year W.A.F.F.L.E.S. team shirt, as the [[Sponsor]] logos on the back are updated annually. Family members are encouraged, but not required, to wear a current-year W.A.F.F.L.E.S. shirt.
 	- Shirts from previous seasons can be worn at off-season events and on load-in/practice day for official events.
 3. All team members must wear black pants, leggings, black jeans (without any rips or washout), or black skirts. Skirts must be paired with leggings.
 	- Leggings should be black or W.A.F.F.L.E.S.-themed
@@ -58,13 +58,13 @@ It is said that there’s an exception to every rule. We have tried to write the
 
 ## The [[Pit]] Area, Practice Field, & Fieldside
 
-1. The [[pit]] area follows a strict chain of command that must be respected. **All other members must follow the instructions of the Lead Pit Mentors while in the pit.**
+1. The [[Pit]] area follows a strict chain of command that must be respected. **All other members must follow the instructions of the Lead Pit Mentors while in the pit.**
 	- Members who disagree with the instructions of the Lead [[Pit Mentor]] must still follow their direction. Raise concerns after the fact through an appropriate lead mentor.
 	- If members are unable to do this, the Lead Pit Mentor will ask them to stay out of the pit for the remainder of the day or competition.
 2. Safety glasses are required at all times. Avoid borrowing a pair of safety glasses from the safety glasses attendants; instead, ask another [[W.A.F.F.L.E.S.]] member to get you a pair from the pit or bring your own.
 	- Non-safety rated prescription glasses with side shields are not an appropriate substitute for safety glasses.
 3. Space is extremely limited in the team’s **Pit Area (10’x10’)** and on the **Practice Field**. Only the [[Pit]] Crew members should be in the these areas, with the following exceptions:
-	- the [[scouting]] or [[strategy]] teams to relay information only
+	- the [[scouting]] or [[Strategy]] teams to relay information only
 	- the media team to document the team only, with permission of one of the Pit Leads
 	- awards students trained in [[talking to judges]], when they have been called in by the Pit Leads
 	- [[Drive Team]] or [[Topping Crew]] members, when they have been called in by the [[Pit]] Leads

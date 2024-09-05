@@ -8,7 +8,7 @@ We develop courses of action as a group, and clearly communicate those plans so 
 
 ## Following [[Mentor]] Guidance
 
-Decisions are made collaboratively in the [[pit]], but the [[pit crew]] is expected to follow the directions of the [[Pit Mentor|pit mentors]] when given as well as any final calls made by them.  While they might not always be the best possible solutions, the turnaround time between matches is often extremely tight, so it is imperative to trust the experience and guidance of the leads.  Additional discussion and clarification can follow after the robot is sent to queue, when there is more time.
+Decisions are made collaboratively in the [[Pit]], but the [[pit crew]] is expected to follow the directions of the [[Pit Mentor|pit mentors]] when given as well as any final calls made by them.  While they might not always be the best possible solutions, the turnaround time between matches is often extremely tight, so it is imperative to trust the experience and guidance of the leads.  Additional discussion and clarification can follow after the robot is sent to queue, when there is more time.
 
 # We Aim to Prevent, Rather than Repair
 
@@ -20,7 +20,7 @@ Given the short time frame between matches, it is critical for the [[pit crew]] 
 
 # Only Pit Members Are in the Pit
 
-Space is extremely limited in the team's [[pit]] area and on the practice field. Only the [[Pit Crew]] members should be in the these areas, unless a team member is relaying information briefly or are called in by the lead [[Pit Mentor|pit mentors]].
+Space is extremely limited in the team's [[Pit]] area and on the practice field. Only the [[Pit Crew]] members should be in the these areas, unless a team member is relaying information briefly or are called in by the lead [[Pit Mentor|pit mentors]].
 
 Extra [[Mentors]], [[Student]], family members, and guests should remove themselves from the [[Pit]] when not needed. The [[Pit Mentor]] leads will monitor this and ask people to leave as required to prevent overcrowding.
 

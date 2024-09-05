@@ -58,7 +58,7 @@ When the robot is assembled?
 
 What about when we can't meet at BGC? what do we do
 - goal is to leave the robot there
-- [[meetings]] at SH
+- [[Meetings]] at SH
 	- iterations/cad focus, [[manufacturing]], and award focus
 - [[drive team]] takes days off ideally
 
@@ -93,7 +93,7 @@ still need to check in with students on times for build season and if they would
 
 looking at maybe running friday long and doing a [[parent]] dinner that day, and have it BYO food on weekends (T and Q could cover most, starting at 3:30ish)
 
-do we want CAD [[meetings]] to be online focused? some people can only CAD at home - maybe hybrid?
+do we want CAD [[Meetings]] to be online focused? some people can only CAD at home - maybe hybrid?
 - B +E more comfortable teaching people who are less familiar with [[Solidworks]] in person, but experienced designers/those who need to can stay home and work on personal PC
 - brennan can join in
 - move to [[Slack]] huddles for this purpose
@@ -101,7 +101,7 @@ do we want CAD [[meetings]] to be online focused? some people can only CAD at ho
 
 is there anything we want to store at BGC? there's shelves and stuff
 - small amount of spare tools
-- maybe just put all the stuff that would be stored in the [[pit]] under tables there to make it a little bit more spread out
+- maybe just put all the stuff that would be stored in the [[Pit]] under tables there to make it a little bit more spread out
 - could move some stuff that we don't need access to very regularly (robot graveyard?)
 - some spare materials? scrap material like L brackets, some spare tubing
 - use the space as spare space to work if needed

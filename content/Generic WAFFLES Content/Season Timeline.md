@@ -39,7 +39,7 @@ Robot Handouts: d, after c, 2w
 - Detailed kickoff worksheet
 - Points analysis
 - Review and validate priority list
-- Start [[prototyping]]
+- Start [[Prototyping]]
 
 ### Day 3-7 (During the Week)
 
@@ -83,7 +83,7 @@ Robot Handouts: d, after c, 2w
 ### Day 15 (Saturday)
 
 - Big [[design]] review (internal)
-- Prioritize tasks that are being [[sponsor]] machined
+- Prioritize tasks that are being [[Sponsor]] machined
 - [[Strategy]]/meta/priority list review
 - Solidify sensors review
 - Solidify fasteners
@@ -93,7 +93,7 @@ Robot Handouts: d, after c, 2w
 
 - External review
 - Order sensors, fasteners
-- Make and send out part drawings for [[sponsor]] made parts (baseplate, gussets, sheet metal)
+- Make and send out part drawings for [[Sponsor]] made parts (baseplate, gussets, sheet metal)
 - Decide controls layout
 - Order COTS that we know we need
 - Bill of Materials

@@ -6,12 +6,12 @@ Below we have listed the expectations of all 4476 team members to be followed at
 Team members must follow the rules of Team 4476.
 - Team members must be respectful to everyone (whether they are present or not). Treat others like you would want to be treated!
 - *[[FIRST]]* Core Values, Gracious Professionalism™ , Coopertition™, honesty, integrity and loyalty are fundamental aspects of being a team member.
-- Team members are expected to arrive on time to [[meetings]], or communicate late arrival in #attendance in advance. Remember, 5 minutes early is on-time, and walking through the door at the meeting start-time is late.
+- Team members are expected to arrive on time to [[Meetings]], or communicate late arrival in #attendance in advance. Remember, 5 minutes early is on-time, and walking through the door at the meeting start-time is late.
 - If a member leaves before a work session is over, they must spend at least 10 minutes cleaning up (or have permission to leave from an adult [[mentor]]).
 - Students must let mentors know when they are leaving.
 - React to all Slack messages in #important and #updates when you have read them
 - React with your availability in #attendance ahead of time
-- Excessive phone use is not appropriate during meetings or team events (using [[slack]], messaging parents for rides, etc. is fine, but please keep it reasonable and avoid gaming).
+- Excessive phone use is not appropriate during meetings or team events (using [[Slack]], messaging parents for rides, etc. is fine, but please keep it reasonable and avoid gaming).
 - Respect mentors. They are volunteers working hard and dedicating their time for your benefit.
 - If you commit to a project, see it through. If you are unable to complete the commitment, notify a mentor or captain within a reasonable time.
 - We love to see intense dedication to the team, but remember that your health is much more valuable than anything and you need to keep your grades up. Like all after-school activities, students are not allowed to participate in a build night if they missed school that day. Do not attend robotics meetings if sick; you need to rest and recover properly so you can return at 100%.

@@ -4,7 +4,7 @@ aliases:
 ---
 ## Safety Glasses
 
-Safety Glasses are mandatory in the competition pits, when fieldside, and when operating any power tools. The team has safety glasses that members can borrow at [[meetings]] and events, or you can buy your own (some even come with fancy rhinestones!). Failure to wear safety glasses will result in temporary removal until the situation is remedied. 
+Safety Glasses are mandatory in the competition pits, when fieldside, and when operating any power tools. The team has safety glasses that members can borrow at [[Meetings]] and events, or you can buy your own (some even come with fancy rhinestones!). Failure to wear safety glasses will result in temporary removal until the situation is remedied. 
 ## Horseplay
 
 No horseplay. Workspaces must be used responsibly and machinery treated with respect. Failure to respect these spaces will result in the team member being asked to leave the space. Examples of horseplay include (but are not limited to):

@@ -1,6 +1,0 @@
----
-aliases:
-  - polycarb
-  - polycarbonate
-  - lexan
----

@@ -43,3 +43,6 @@ Intakes are a subsystem on pretty much every robot where the purpose of the subs
 		- [[Hall Effect Sensors|Hall effect]] sensors to zero motor driven deploy
 		- Beam-break sensor (ex. retro reflective laser) to know that object is in robot and automatically trigger intake to stow, elevator to move, etc
 		- Color sensor to detect multicolored game objects (ex. 2022 balls)
+### Intake Indexing
+
+Regularly intakes will have to index multiple pieces, or direct game pieces to a specific place in the robot to be singularized (IE. Intake is multiple game pieces wide, but needs to narrow down to one game piece wide)
